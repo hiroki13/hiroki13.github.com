@@ -1,0 +1,16 @@
+---
+layout: layout
+---
+<head>
+<style type="text/css">
+<!--
+h3 {
+margin-top: 2em;
+}
+-->
+</style>
+
+</head>
+<div class='main'>
+  {{ content }}
+</div>

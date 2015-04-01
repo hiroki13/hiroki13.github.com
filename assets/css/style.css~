@@ -1,0 +1,68 @@
+h1 {
+  color: #696969;
+}
+
+h2 {
+  color: #696969;
+}
+
+header {
+  border-bottom: 5px solid #f5f5f5;
+}
+
+body {
+  color: #696969;
+  margin: 30px 300px 30px;
+  padding: 10px;
+}
+
+footer {
+  background-color: #b0c4de;
+  color: #fff;
+}
+
+menu {
+    background-color:#9999ff; /* バーに背景色。端まで塗るため幅はulに指定。 */
+}
+
+#menu ul#mainmenu {
+    width:755px; /* liが横に並ぶ幅を確保 */
+    height:22px; /* バーの高さを確保 */
+    margin-left:9px; /* 左余白 */
+    border-left:1px solid #ffffff; /* 左しきり線 */
+}
+#menu li {
+    width:150px;
+    float:left; /* liを左寄せ */
+    list-style-type:none;
+}
+#menu a {
+    border:1px solid #9999ff;
+    border-right-color:#ffffff;
+    padding:2px;
+    display:block;
+    line-height:16px;
+    text-decoration:none;
+    font-size:12px;
+    font-weight:bold;
+    color:#ffffff;
+    background-color:#9999ff;
+}
+#menu a:hover {
+    color:#9999ff;
+    background-color:#ffffff;
+}
+#menu ul.submenu a {
+    border:1px solid #bbbbff;
+    text-indent:10px; /* インデント */
+    background-color:#bbbbff;
+}
+#menu ul.submenu a:hover {
+    color:#9999ff;
+    background-color:#ffffff;
+}
+
+#menu ul.submenu {
+    display:none; /* 初期状態は非表示 */
+}
+
