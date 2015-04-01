@@ -56,3 +56,37 @@ footer {
     color:#9999ff;
     background-color:#ffffff;
 }
+
+.paper{
+    padding: 0.5em 1em;
+    width: auto;
+}
+
+.title{
+  padding: 0.4em 0.4em;
+  width: auto;
+  font-family: Arial;
+  text-decoration:none;
+}
+
+.author{
+  font-size: 90%;
+  margin: 0.2em 1em;
+}
+
+.publication{
+  font-size: 90%;
+  margin: 0.2em 1em;
+}
+
+.description{
+  margin: 0.2em 1em;/*左の余白*/
+  font-size: 90%;
+}
+
+.d{
+  border: solid 0.2em #CACACD;/*枠色*/m;
+  padding: 0.5em 0.5em;
+  margin: 0.3em;
+  margin-left: -1.4em;
+}
