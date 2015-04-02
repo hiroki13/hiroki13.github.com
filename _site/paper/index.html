@@ -53,6 +53,116 @@ function show(inputData){
   <h2 id="srl">SRL</h2>
 <hr />
 
+<h3 id="evaluation-for-srl">Evaluation for SRL</h3>
+
+<blockquote>
+  <p>Data Sets (DATA): PropBank/CoNLL 2008/CoNLL 2009</p>
+</blockquote>
+
+<blockquote>
+  <p>Predicates (PRED): Given/Predict</p>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Whether the target predicates are given or not</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <p>Predicate Senses (P-SENSE): Included/Excluded</p>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>Whether the predicate senses are included in evaluation metrics or not</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <p>Predicate Types (P-TYPE): Nominal/Verbal/All (Nominal+Verbal)</p>
+</blockquote>
+
+<blockquote>
+  <h4 id="examples">&lt;Examples&gt;</h4>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>(1) CoNLL 2008</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <p>DATA: CoNLL 2008</p>
+    </blockquote>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <p>PRED: Predict</p>
+    </blockquote>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <p>P-SENSE: Included</p>
+    </blockquote>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <p>P-TYPE: All</p>
+    </blockquote>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <p>(2) CoNLL 2009</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <p>DATA: CoNLL 2009</p>
+    </blockquote>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <p>PRED: Given</p>
+    </blockquote>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <p>P-SENSE: Included</p>
+    </blockquote>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <p>P-TYPE: All</p>
+    </blockquote>
+  </blockquote>
+</blockquote>
+
 <h3 id="conll-shared-task">1. CoNLL Shared Task</h3>
 
 <div class="paper">
@@ -100,7 +210,13 @@ Multi-Predicate Semantic Role Labeling
 <div class="description">
 <a href="javascript:void(0)" id="category_3" onclick="show('3');" style="text-decoration:none;">▼Detail</a>
 <div id="layer_3" style="display: none; position:relative; margin-left:15pt;" class="close">
-<div class="d">test</div>
+<div class="d">
+Task: Constituent-Based SRL<br />
+Originality: Modeling interrelations between multiple predicates<br />
+Method: Maximum entropy with new features for AI, and reranking with new features for AC<br />
+Evalution: DATA:PropBank, PRED: Given, P-SENSE: excluded, P-TYPE: All<br />
+Result: 77.00 (F1)
+</div>
 </div>
 </div>
 </div>
