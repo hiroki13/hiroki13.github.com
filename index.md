@@ -2,40 +2,73 @@
 layout: layout
 title:  Hiroki Ouchi
 ---
-### Current Position
 
-> Ph.D. Student & Research Assistant at [Computational Linguitics Lab][1]
+<div class="content">
+	<h3>Current Position</h3>
+	<hr>
+	<blockquote>
+		<p><b><i><font color="#ff6666">Ph.D. Student &amp; Research Assistant</font></i></b></p>
+	</blockquote>
+	<blockquote>
+		<p><a href="http://cl.naist.jp/index.php" style="text-decoration:none;">Computational Linguistics Labolatory</a></p>
+	</blockquote>
+	<blockquote>
+		<p><a href="http://www.naist.jp/index_j.html" style="text-decoration:none;">Nara Institute of Science and Technology (NAIST)</a></p>
+	</blockquote>
+	<blockquote>
+		<p>Supervisor: Yuji Matsumoto</p>
+	</blockquote>
+	<blockquote>
+		<p>Co-Supervisor: Kevin Duh, Hiroyuki Shindo</p>
+	</blockquote>
+</div>
 
-> [Nara Institute of Science and Technology (NAIST)][2]
 
-> Supervisor: Yuji Matsumoto
-
-> Co-Supervisor: Kevin Duh, Hiroyuki Shindo
-
-### Contact Info
+<div class="content">
+	<h3>Contact Info</h3>
+	<hr>
+</div>
 
 > email: {{site.author.email}}
 
-### Research Interests
 
-> Natural Language Processing
+<div class="content">
+	<h3>Research Interests</h3>
+	<hr>
 
->> Parsing, Semantic Role Labeling, Tagging
+	<div class="double">
+		<div class="item">Natural Language Processing</div>
+		<div class="detail">
+			Dependency Parsing<br>
+			Semantic Role Labeling<br>
+			Tagging<br><br>
+		</div>
+	</div>
 
-> Machine Learning
+	<div class="item">Machine Learning</div>
+	<div class="detail">
+		Structured Prediction<br>
+		Feature Learning<br><br>
+	</div>
+</div>
 
->> Structured Prediction
+<div style="clear:left;"></div>
 
-### Selected Publications
+
+<div class="content">
+	<h3>Selected Publications</h3>
+	<hr>
+</div>
 
 > [Improving Dependency Parsers with Supertags][3]
 
 >> Hiroki Ouchi, Kevin Duh and Yuji Matsumoto. Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics. 2014.
 
-### CV
+<div class="content">
+<h3>CV</h3>
+<hr>
+</div>
 
 > Available on Request
 
-[1]: http://cl.naist.jp/index.php
-[2]: http://www.naist.jp/index_j.html
 [3]: https://scholar.google.co.jp/scholar?q=Improving+dependency+parsers+with+supertags&btnG=&hl=ja&as_sdt=0%2C5

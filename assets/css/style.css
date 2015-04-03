@@ -90,3 +90,31 @@ footer {
   margin: 0.3em;
   margin-left: -1.4em;
 }
+
+.item{
+  font-style: italic;
+  width: 40%;
+  float: left;
+  margin-left: 30pt;
+}
+
+.detail{
+  width: 50%;
+  float: left;
+  margin-left: 5pt;
+}
+
+.double{
+  margin: 13pt 0pt 0pt;
+}
+
+.content{
+  margin: 30pt 0pt 0pt;
+}
+
+.content hr{
+  width: auto;
+  size: 3;
+  noshade;
+  margin: -10pt 0pt 0pt;
+}
