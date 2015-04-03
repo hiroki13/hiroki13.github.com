@@ -50,118 +50,36 @@ function show(inputData){
 </head>
 
 <div class='main'>
-  <h2 id="srl">SRL</h2>
+  <h2 id="semantic-role-labeling-srl">Semantic Role Labeling (SRL)</h2>
 <hr />
 
-<h3 id="evaluation-for-srl">Evaluation for SRL</h3>
+<div class="description">
+<h3><a href="javascript:void(0)" id="category_eval" onclick="show('eval');" style="text-decoration:none;">▼On Evaluation</a></h3>
+<div id="layer_eval" style="display: none; position:relative; margin-left:15pt;" class="close">
+<div class="d">
+<li style="margin-left:15pt;"><b>Data Sets (DATA)</b>: PropBank/CoNLL2008/CoNLL2009</li>
+<li style="margin-left:15pt;"><b>Predicates (PRED)</b>: Given/Predict<br />
+(Whether the target predicates are given or not)</li>
+<li style="margin-left:15pt;"><b>Predicate Senses (P-SENSE)</b>: Included/Excluded<br />
+(Whether the predicate senses are included in evaluation metrics or not)</li>
+<li style="margin-left:15pt;"><b>Predicate Types (P-TYPE)</b>: Nominal/Verbal/All (Nominal+Verbal)</li>
+</div>
+</div>
+</div>
 
-<blockquote>
-  <p>Data Sets (DATA): PropBank/CoNLL2008/CoNLL2009</p>
-</blockquote>
-
-<blockquote>
-  <p>Predicates (PRED): Given/Predict</p>
-</blockquote>
-
-<blockquote>
-  <blockquote>
-    <p>Whether the target predicates are given or not</p>
-  </blockquote>
-</blockquote>
-
-<blockquote>
-  <p>Predicate Senses (P-SENSE): Included/Excluded</p>
-</blockquote>
-
-<blockquote>
-  <blockquote>
-    <p>Whether the predicate senses are included in evaluation metrics or not</p>
-  </blockquote>
-</blockquote>
-
-<blockquote>
-  <p>Predicate Types (P-TYPE): Nominal/Verbal/All (Nominal+Verbal)</p>
-</blockquote>
-
-<blockquote>
-  <h4 id="examples">&lt;Examples&gt;</h4>
-</blockquote>
-
-<blockquote>
-  <blockquote>
-    <p>(1) CoNLL 2008</p>
-  </blockquote>
-</blockquote>
-
-<blockquote>
-  <blockquote>
-    <blockquote>
-      <p>DATA: CoNLL2008</p>
-    </blockquote>
-  </blockquote>
-</blockquote>
-
-<blockquote>
-  <blockquote>
-    <blockquote>
-      <p>PRED: Predict</p>
-    </blockquote>
-  </blockquote>
-</blockquote>
-
-<blockquote>
-  <blockquote>
-    <blockquote>
-      <p>P-SENSE: Included</p>
-    </blockquote>
-  </blockquote>
-</blockquote>
-
-<blockquote>
-  <blockquote>
-    <blockquote>
-      <p>P-TYPE: All</p>
-    </blockquote>
-  </blockquote>
-</blockquote>
-
-<blockquote>
-  <blockquote>
-    <p>(2) CoNLL 2009</p>
-  </blockquote>
-</blockquote>
-
-<blockquote>
-  <blockquote>
-    <blockquote>
-      <p>DATA: CoNLL2009</p>
-    </blockquote>
-  </blockquote>
-</blockquote>
-
-<blockquote>
-  <blockquote>
-    <blockquote>
-      <p>PRED: Given</p>
-    </blockquote>
-  </blockquote>
-</blockquote>
-
-<blockquote>
-  <blockquote>
-    <blockquote>
-      <p>P-SENSE: Included</p>
-    </blockquote>
-  </blockquote>
-</blockquote>
-
-<blockquote>
-  <blockquote>
-    <blockquote>
-      <p>P-TYPE: All</p>
-    </blockquote>
-  </blockquote>
-</blockquote>
+<div class="description">
+<h3><a href="javascript:void(0)" id="category_ab" onclick="show('ab');" style="text-decoration:none;">▼On Abbreviations</a></h3>
+<div id="layer_ab" style="display: none; position:relative; margin-left:15pt;" class="close">
+<div class="d">
+<li style="margin-left:15pt;"><b>DATA</b>: Data Sets</li>
+<li style="margin-left:15pt;"><b>PRED</b>: Predicates</li>
+<li style="margin-left:15pt;"><b>P-SENSE</b>: Predicate Senses</li>
+<li style="margin-left:15pt;"><b>P-TYPE</b>: Predicate Types</li>
+<li style="margin-left:15pt;"><b>AI</b>: Argument Identification</li>
+<li style="margin-left:15pt;"><b>AC</b>: Argument Classification</li>
+</div>
+</div>
+</div>
 
 <h3 id="conll-shared-task">1. CoNLL Shared Task</h3>
 
@@ -177,8 +95,8 @@ The CoNLL-2008 shared task on joint parsing of syntactic and semantic dependenci
 <a href="javascript:void(0)" id="category_1" onclick="show('1');" style="text-decoration:none;">▼Detail</a>
 <div id="layer_1" style="display: none; position:relative; margin-left:15pt;" class="close">
 <div class="d">
-Task: Dependency-Based SRL<br />
-Evaluation: DATA/CoNLL2008, PRED/Predict, P-SENSE/Included, P-TYPE/All
+<b>Task</b>: Dependency-Based SRL<br />
+<b>Evaluation</b>: DATA/CoNLL2008, PRED/Predict, P-SENSE/Included, P-TYPE/All
 </div>
 </div>
 </div>
@@ -196,8 +114,8 @@ The CoNLL-2009 shared task: Syntactic and semantic dependencies in multiple lang
 <a href="javascript:void(0)" id="category_2" onclick="show('2');" style="text-decoration:none;">▼Detail</a>
 <div id="layer_2" style="display: none; position:relative; margin-left:15pt;" class="close">
 <div class="d">
-Task: Dependency-Based SRL<br />
-Evaluation: DATA/CoNLL2009, PRED/Given, P-SENSE/Included, P-TYPE/All
+<b>Task</b>: Dependency-Based SRL<br />
+<b>Evaluation</b>: DATA/CoNLL2009, PRED/Given, P-SENSE/Included, P-TYPE/All
 </div>
 </div>
 </div>
@@ -217,11 +135,35 @@ Multi-Predicate Semantic Role Labeling
 <a href="javascript:void(0)" id="category_3" onclick="show('3');" style="text-decoration:none;">▼Detail</a>
 <div id="layer_3" style="display: none; position:relative; margin-left:15pt;" class="close">
 <div class="d">
-Task: Constituent-Based SRL<br />
-Originality: Modeling interrelations between multiple predicates<br />
-Method: Maximum entropy with new features for AI, and reranking with new features for AC<br />
-Evalution: DATA/PropBank, PRED/Given, P-SENSE/Excluded, P-TYPE/All<br />
-Result: 77.00 (F1)
+<b>Task</b>: Constituent-Based SRL<br />
+<b>Originality</b>: Modeling interrelations between multiple predicates<br />
+<b>Method</b>: Maximum entropy with new features for AI, and reranking with new features for AC<br />
+<b>Evalution</b>: DATA/PropBank, PRED/Given, P-SENSE/Excluded, P-TYPE/All<br />
+<b>Result</b>: 77.00 (F1)
+</div>
+</div>
+</div>
+</div>
+
+<h3 id="joint-approach">3. Joint Approach</h3>
+
+<div class="paper">
+<div class="title">
+<a href="http://scholar.google.co.jp/scholar?q=Joint+arc-factored+parsing+of+syntactic+and+semantic+dependencies&amp;btnG=&amp;hl=ja&amp;as_sdt=0%2C5&amp;as_vis=1" style="text-decoration: none;">
+Joint Arc-Factored Parsing of Syntactic and Semantic Dependencies
+</a>
+</div>
+<div class="author">X. Lluís, X. Carreras, and L. Màrquez</div>
+<div class="publication">TACL 2013</div>
+<div class="description">
+<a href="javascript:void(0)" id="category_4" onclick="show('4');" style="text-decoration:none;">▼Detail</a>
+<div id="layer_4" style="display: none; position:relative; margin-left:15pt;" class="close">
+<div class="d">
+<b>Task</b>: Dependency-Based SRL<br />
+<b>Originality</b>: (1) Joint parsing of syntactic and semantic dependencies with exact inference, (2) Frame SRL as a linear assignment task<br />
+<b>Method</b>: Model/Joint model of syntactic and semantic dependencies, Decoding/Dual Decomposition (DD)<br />
+<b>Evalution</b>: DATA/CoNLL2009, PRED/Given, P-SENSE/Excluded, P-TYPE/All<br />
+<b>Result</b>: DD-2nd/80.04, Pipe-2nd/80.26 (F1)
 </div>
 </div>
 </div>
