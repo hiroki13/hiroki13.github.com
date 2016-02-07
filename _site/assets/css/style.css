@@ -7,54 +7,28 @@ h2 {
 }
 
 header {
-  border-bottom: 5px solid #f5f5f5;
+  background-color: #696969;
+  line-height:150px;
+}
+
+header h1 {
+  font-size:40px;
+  color: #ffffff;
 }
 
 body {
   color: #696969;
-  margin: 30px 300px;
-  padding: 10px;
+  width: 700pt;
+  margin: 50px auto;
 }
 
 footer {
   background-color: #b0c4de;
+  height:30px; /* バーの高さを確保 */
+  line-height:30px;
+  text-align: center;
+  margin: 100px 0px;
   color: #fff;
-}
-
-.menu {
-    background-color:#9999ff; /* バーに背景色。端まで塗るため幅はulに指定。 */  }
-
-.menu ul {
-    width:auto; /* liが横に並ぶ幅を確保 */
-    height:22px; /* バーの高さを確保 */
-}
-
-.menu li {
-    float:left; /* liを左寄せ */
-    list-style-type:none;
-}
-
-.menu li a {
-    width:120px;
-    border:1px solid #9999ff;
-    padding:2px;    
-    display:block;
-    line-height:16px;
-    text-decoration:none;
-    text-align: center;
-    font-size:12px;
-    font-weight:bold;
-    color:#ffffff;
-    background-color:#9999ff;
-}
-
-.menu li.lastmenu a{
-    border:1px solid #9999ff;
-}
-
-.menu a:hover {
-    color:#9999ff;
-    background-color:#ffffff;
 }
 
 .paper{
@@ -93,7 +67,7 @@ footer {
 
 .item{
   font-style: italic;
-  width: 40%;
+  width: 45%;
   float: left;
   margin-left: 30pt;
 }
@@ -101,7 +75,7 @@ footer {
 .detail{
   width: 50%;
   float: left;
-  margin-left: 5pt;
+  margin: 0pt auto;
 }
 
 .double{
@@ -109,12 +83,40 @@ footer {
 }
 
 .content{
-  margin: 30pt 0pt 0pt;
+  margin: 50pt 0pt 0pt;
 }
 
 .content hr{
-  width: auto;
   size: 3;
   noshade;
   margin: -10pt 0pt 0pt;
+}
+
+.menu {
+    background-color:#696969; /* バーに背景色。端まで塗るため幅はulに指定。 */ }
+
+.menu ul {
+    height:30px; /* バーの高さを確保 */
+    margin: -30px -40px;
+}
+
+.menu li {
+    float:left; /* liを左寄せ */
+    list-style-type:none;
+}
+
+.menu li a {
+    width:200px;
+    display:block;
+    line-height:30px;
+    text-decoration:none;
+    text-align: center;
+    font-size:14px;
+    font-weight:bold;
+    color:#ffffff;
+}
+
+.menu a:hover {
+    color:#696969;
+    background-color:#ffffff;
 }
