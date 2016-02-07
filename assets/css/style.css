@@ -25,7 +25,7 @@ footer {
     background-color:#9999ff; /* バーに背景色。端まで塗るため幅はulに指定。 */  }
 
 .menu ul {
-    width:auto; /* liが横に並ぶ幅を確保 */
+    width:120px; /* liが横に並ぶ幅を確保 */
     height:22px; /* バーの高さを確保 */
 }
 
