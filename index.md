@@ -30,9 +30,9 @@ title:  Hiroki Ouchi
 		<div class="item">Natural Language Processing</div>
 		<div class="detail">
 			Semantic Role Labeling<br>
-			Coreference Resolution<br>
 			Syntactic Parsing<br>
-			Dialogue Systems<br><br>
+			Coreference Resolution<br>
+			Dialog Modeling<br><br>
 		</div>
 	</div>
 
@@ -51,13 +51,17 @@ title:  Hiroki Ouchi
 	<hr>
 </div>
 
+> [Addressee and Response Selection for Multi-Party Conversation][5]
+
+>> Hiroki Ouchi, Yuta Tsuboi. In Proceedings of EMNLP 2016.
+
 > [Joint Case Argument Identification for Japanese Predicate Argument Structure Analysis][4]
 
->> Hiroki Ouchi, Hiroyuki Shindo, Kevin Duh and Yuji Matsumoto. In Proceedings of ACL. 2015.
+>> Hiroki Ouchi, Hiroyuki Shindo, Kevin Duh and Yuji Matsumoto. In Proceedings of ACL 2015.
 
 > [Improving Dependency Parsers with Supertags][3]
 
->> Hiroki Ouchi, Kevin Duh and Yuji Matsumoto. In Proceedings of EACL. 2014.
+>> Hiroki Ouchi, Kevin Duh and Yuji Matsumoto. In Proceedings of EACL 2014.
 
 
 <div class="content">
@@ -83,6 +87,10 @@ title:  Hiroki Ouchi
 	<hr>
 </div>
 
+> IBM Thomas J. Watson Research Center
+
+>> Research Internship (Jun. 2016 - Sep. 2016)
+
 > IBM Research - Tokyo
 
 >> Research Internship (Aug. 2015 - Oct. 2015)
@@ -107,5 +115,6 @@ title:  Hiroki Ouchi
 
 > Available on Request
 
-[3]: https://scholar.google.co.jp/scholar?q=Improving+dependency+parsers+with+supertags&btnG=&hl=ja&as_sdt=0%2C5
-[4]: https://scholar.google.co.jp/scholar?q=Joint+Case+Argument+Identification+for+Japanese+Predicate+Argument+Structure+Analysis&hl=ja&as_sdt=0&as_vis=1&oi=scholart&sa=X&ved=0ahUKEwij4N6QnOXKAhUHx6YKHfCMAWcQgQMIGjAA
+[3]: https://aclweb.org/anthology/E/E14/E14-4030.pdf
+[4]: https://aclweb.org/anthology/P/P15/P15-1093.pdf
+[5]: https://aclweb.org/anthology/D/D16/D16-1231.pdf
