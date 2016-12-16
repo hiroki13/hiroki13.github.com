@@ -10,14 +10,17 @@ title:  Hiroki Ouchi
 		<p><b><i>Ph.D. Student</i></b></p>
 	</blockquote>
 	<blockquote>
-		<p><a href="http://www.naist.jp/index_j.html" style="text-decoration:none;">Nara Institute of Science and Technology (NAIST)</a>, 
+		<p><a href="http://www.naist.jp/" style="text-decoration:none;">Nara Institute of Science and Technology (NAIST)</a>, 
 		<a href="http://cl.naist.jp/index.php" style="text-decoration:none;">Computational Linguistics Lab.</a></p>
 	</blockquote>
 	<blockquote>
-		<p>Supervisor: Yuji Matsumoto</p>
+		<p>Supervisor: <a href="http://cl.naist.jp/staff/matsu/home-e.html" style="text-decoration:none;">Yuji Matsumoto</a></p>
 	</blockquote>
 	<blockquote>
-		<p>Co-Supervisor: Hiroyuki Shindo</p>
+		<p>Co-Supervisor: <a href="http://www.hshindo.com/index.html" style="text-decoration:none;">Hiroyuki Shindo</a></p>
+	</blockquote>
+	<blockquote>
+		<p>Ex-Supervisor: <a href="http://cs.jhu.edu/~kevinduh/" style="text-decoration:none;">Kevin Duh</a></p>
 	</blockquote>
 </div>
 
@@ -77,7 +80,7 @@ title:  Hiroki Ouchi
 	<hr>
 </div>
 
-> See [my github account][7]
+> See [my github account][11]
 
 <div class="content">
 	<h3>Education</h3>
@@ -102,15 +105,15 @@ title:  Hiroki Ouchi
 	<hr>
 </div>
 
-> IBM Thomas J. Watson Research Center
+> [IBM Thomas J. Watson Research Center][21]
 
 >> Research Internship (Jun. 2016 - Sep. 2016)
 
-> IBM Research - Tokyo
+> [IBM Research - Tokyo][22]
 
 >> Research Internship (Aug. 2015 - Oct. 2015)
 
-> Yahoo Japan Corporation
+> [Yahoo Japan Corporation][23]
 
 >> Engineering Internship (Aug. 2013 - Sep. 2013)
 
@@ -134,4 +137,8 @@ title:  Hiroki Ouchi
 [4]: https://aclweb.org/anthology/P/P15/P15-1093.pdf
 [5]: https://aclweb.org/anthology/D/D16/D16-1231.pdf
 [6]: http://ieeexplore.ieee.org/document/7533450/
-[7]: https://github.com/hiroki13
+[11]: https://github.com/hiroki13
+[21]: https://www.research.ibm.com/labs/watson/
+[22]: https://www.research.ibm.com/labs/tokyo/index_j.shtml
+[23]: http://docs.yahoo.co.jp/
+
