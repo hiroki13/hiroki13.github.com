@@ -45,9 +45,17 @@ title:  Hiroki Ouchi
 
 <div style="clear:left;"></div>
 
+<div class="content">
+	<h3>Journals</h3>
+	<hr>
+</div>
+
+> [Transition-Based Dependency Parsing Exploiting Supertags][6]
+
+>> Hiroki Ouchi, Kevin Duh, Hiroyuki Shindo, Yuji Matsumoto. IEEE Transactions on Audio, Speech and Language Processing 2016
 
 <div class="content">
-	<h3>Selected Publications</h3>
+	<h3>Conference Papers</h3>
 	<hr>
 </div>
 
@@ -63,6 +71,13 @@ title:  Hiroki Ouchi
 
 >> Hiroki Ouchi, Kevin Duh and Yuji Matsumoto. In Proceedings of EACL 2014.
 
+
+<div class="content">
+	<h3>Software</h3>
+	<hr>
+</div>
+
+> See [my github account][7]
 
 <div class="content">
 	<h3>Education</h3>
@@ -118,3 +133,5 @@ title:  Hiroki Ouchi
 [3]: https://aclweb.org/anthology/E/E14/E14-4030.pdf
 [4]: https://aclweb.org/anthology/P/P15/P15-1093.pdf
 [5]: https://aclweb.org/anthology/D/D16/D16-1231.pdf
+[6]: http://ieeexplore.ieee.org/document/7533450/
+[7]: https://github.com/hiroki13
