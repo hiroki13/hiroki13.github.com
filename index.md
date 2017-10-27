@@ -62,6 +62,10 @@ title:  Hiroki Ouchi
 	<hr>
 </div>
 
+> [Neural Modeling of Multi-Predicate Interactions for Japanese Predicate Argument Structure Analysis][7]
+
+>> Hiroki Ouchi, Yuta Tsuboi. In Proceedings of EMNLP 2016.
+
 > [Addressee and Response Selection for Multi-Party Conversation][5]
 
 >> Hiroki Ouchi, Yuta Tsuboi. In Proceedings of EMNLP 2016.
@@ -73,6 +77,24 @@ title:  Hiroki Ouchi
 > [Improving Dependency Parsers with Supertags][3]
 
 >> Hiroki Ouchi, Kevin Duh and Yuji Matsumoto. In Proceedings of EACL 2014.
+
+
+<div class="content">
+	<h3>Awards</h3>
+	<hr>
+</div>
+
+> Outstanding Research Award
+
+>> Information Processing Society of Japan SIG-NL-233 (Oct. 2017)
+
+> Young Researcher Award
+
+>> Annual Meeting of Association for Natural Language Processing (Mar. 2017)
+
+> Outstanding Research Award
+
+>> Information Processing Society of Japan SIG-NL-229 (Dec. 2016)
 
 
 <div class="content">
@@ -137,6 +159,7 @@ title:  Hiroki Ouchi
 [4]: https://aclweb.org/anthology/P/P15/P15-1093.pdf
 [5]: https://aclweb.org/anthology/D/D16/D16-1231.pdf
 [6]: http://ieeexplore.ieee.org/document/7533450/
+[7]: http://aclweb.org/anthology/P/P17/P17-1146.pdf
 [11]: https://github.com/hiroki13
 [21]: https://www.research.ibm.com/labs/watson/
 [22]: https://www.research.ibm.com/labs/tokyo/index_j.shtml
