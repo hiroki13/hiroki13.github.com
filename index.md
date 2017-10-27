@@ -64,7 +64,7 @@ title:  Hiroki Ouchi
 
 > [Neural Modeling of Multi-Predicate Interactions for Japanese Predicate Argument Structure Analysis][7]
 
->> Hiroki Ouchi, Yuta Tsuboi. In Proceedings of EMNLP 2016.
+>> Hiroki Ouchi, Hiroyuki Shindo and Yuji Matsumoto. In Proceedings of ACL 2017.
 
 > [Addressee and Response Selection for Multi-Party Conversation][5]
 
