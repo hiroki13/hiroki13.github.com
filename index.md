@@ -29,7 +29,7 @@ title:  Hiroki Ouchi
 	<h3>Research Interests</h3>
 	<hr>
 	<blockquote>
-		<p><b>Natural Language Processing in the Wild</b></p>
+		<p><b>Natural Language Processing in the Wild: To create NLP systems working in real-world situations</b></p>
 	</blockquote>
 
     <div class="double">
