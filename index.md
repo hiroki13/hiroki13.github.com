@@ -12,19 +12,6 @@ title:  Hiroki Ouchi
 	<blockquote>
                 <p><a href="http://www.riken.jp/en/" style="text-decoration:none;">RIKEN Center for Advanced Intelligence Project</a></p>
         </blockquote>
-	<blockquote>
-		<p><a href="http://www.naist.jp/" style="text-decoration:none;">Nara Institute of Science and Technology (NAIST)</a>, 
-		<a href="http://cl.naist.jp/index.php" style="text-decoration:none;">Computational Linguistics Lab.</a></p>
-	</blockquote>
-	<blockquote>
-		<p>Supervisor: <a href="http://cl.naist.jp/staff/matsu/home-e.html" style="text-decoration:none;">Yuji Matsumoto</a></p>
-	</blockquote>
-	<blockquote>
-		<p>Co-Supervisor: <a href="http://www.hshindo.com/index.html" style="text-decoration:none;">Hiroyuki Shindo</a></p>
-	</blockquote>
-	<blockquote>
-		<p>Ex-Supervisor: <a href="http://cs.jhu.edu/~kevinduh/" style="text-decoration:none;">Kevin Duh</a></p>
-	</blockquote>
 </div>
 
 
@@ -32,7 +19,7 @@ title:  Hiroki Ouchi
 	<h3>Research Interests</h3>
 	<hr>
 	<blockquote>
-		<p><b>Natural Language Processing in the Wild: To create NLP systems working in real-world situations</b></p>
+		<p><b>Natural Language Processing in the Wild</b></p>
 	</blockquote>
 
     <div class="double">
@@ -67,6 +54,10 @@ title:  Hiroki Ouchi
 	<h3>Conference Papers</h3>
 	<hr>
 </div>
+
+> [Addressee and Response Selection for Multilingual Conversation]
+
+>> Motoki Sato, Hiroki Ouchi and Yuta Tsuboi. In Proceedings of COLING 2018.
 
 > [Neural Modeling of Multi-Predicate Interactions for Japanese Predicate Argument Structure Analysis][7]
 
@@ -114,6 +105,10 @@ title:  Hiroki Ouchi
 	<h3>Education</h3>
 	<hr>
 </div>
+
+> Nara Institute of Science and Technology
+
+>> Ph.D. in Engineering (Mar. 2018)
 
 > Nara Institute of Science and Technology
 
