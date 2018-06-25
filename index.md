@@ -7,7 +7,7 @@ title:  Hiroki Ouchi
 	<h3>Current Position</h3>
 	<hr>
 	<blockquote>
-		<p><b><i>Researcher</i></b></p>
+		<p><b>Researcher</b></p>
 	</blockquote>
 	<blockquote>
                 <p><a href="http://www.riken.jp/en/" style="text-decoration:none;">RIKEN Center for Advanced Intelligence Project</a></p>
@@ -55,7 +55,7 @@ title:  Hiroki Ouchi
 	<hr>
 </div>
 
-> [Addressee and Response Selection for Multilingual Conversation]
+> Addressee and Response Selection for Multilingual Conversation
 
 >> Motoki Sato, Hiroki Ouchi and Yuta Tsuboi. In Proceedings of COLING 2018.
 
