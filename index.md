@@ -7,8 +7,11 @@ title:  Hiroki Ouchi
 	<h3>Current Position</h3>
 	<hr>
 	<blockquote>
-		<p><b><i>Ph.D. Student</i></b></p>
+		<p><b><i>Researcher</i></b></p>
 	</blockquote>
+	<blockquote>
+                <p><a href="http://www.riken.jp/en/" style="text-decoration:none;">RIKEN Center for Advanced Intelligence Project</a></p>
+        </blockquote>
 	<blockquote>
 		<p><a href="http://www.naist.jp/" style="text-decoration:none;">Nara Institute of Science and Technology (NAIST)</a>, 
 		<a href="http://cl.naist.jp/index.php" style="text-decoration:none;">Computational Linguistics Lab.</a></p>
