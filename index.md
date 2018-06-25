@@ -18,9 +18,6 @@ title:  Hiroki Ouchi
 <div class="content">
 	<h3>Research Interests</h3>
 	<hr>
-	<blockquote>
-		<p><b>Natural Language Processing in the Wild</b></p>
-	</blockquote>
 
     <div class="double">
 		<div class="item">Natural Language Processing</div>
@@ -34,6 +31,7 @@ title:  Hiroki Ouchi
 	<div class="item">Machine Learning</div>
 	<div class="detail">
 		Domain Adaptation<br>
+		Semi-Supervised Learning<br>
 		Neural Networks<br>
 		Structured Prediction<br><br>
 	</div>
