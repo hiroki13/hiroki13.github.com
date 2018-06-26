@@ -145,6 +145,7 @@ title:  Hiroki Ouchi
 </div>
 
 > email: {{site.author.email}}
+
 > [Research Gate Account][31]
 
 
