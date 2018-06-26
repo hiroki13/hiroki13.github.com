@@ -145,6 +145,7 @@ title:  Hiroki Ouchi
 </div>
 
 > email: {{site.author.email}}
+> [Research Gate Account][31]
 
 
 <div class="content">
@@ -163,4 +164,5 @@ title:  Hiroki Ouchi
 [21]: https://www.research.ibm.com/labs/watson/
 [22]: https://www.research.ibm.com/labs/tokyo/index_j.shtml
 [23]: http://docs.yahoo.co.jp/
+[31]: https://www.researchgate.net/profile/Hiroki_Ouchi
 
