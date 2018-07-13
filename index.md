@@ -81,6 +81,10 @@ title:  Hiroki Ouchi
 
 > Outstanding Research Award
 
+>> Information Processing Society of Japan SIG-NL-236 (Jul. 2018)
+
+> Outstanding Research Award
+
 >> Information Processing Society of Japan SIG-NL-233 (Oct. 2017)
 
 > Young Researcher Award
