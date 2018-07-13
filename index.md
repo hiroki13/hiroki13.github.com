@@ -83,6 +83,8 @@ title:  Hiroki Ouchi
 
 >> Information Processing Society of Japan SIG-NL-236 (Jul. 2018)
 
+> IPSJ Certificate of Excellent Ph.D. Thesis (Jul. 2018)
+
 > Outstanding Research Award
 
 >> Information Processing Society of Japan SIG-NL-233 (Oct. 2017)
