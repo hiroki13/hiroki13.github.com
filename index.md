@@ -53,6 +53,10 @@ title:  Hiroki Ouchi
 	<hr>
 </div>
 
+> [A Span Selection Model for Semantic Role Labeling][9]
+
+>> Hiroki Ouchi, Hiroyuki Shindo and Yuji Matsumoto. In Proceedings of EMNLP 2018.
+
 > [Addressee and Response Selection for Multilingual Conversation][8]
 
 >> Motoki Sato, Hiroki Ouchi and Yuta Tsuboi. In Proceedings of COLING 2018.
@@ -168,6 +172,7 @@ title:  Hiroki Ouchi
 [6]: http://ieeexplore.ieee.org/document/7533450/
 [7]: http://aclweb.org/anthology/P/P17/P17-1146.pdf
 [8]: http://aclweb.org/anthology/C18-1308
+[9]: https://arxiv.org/pdf/1810.02245.pdf
 [11]: https://github.com/hiroki13
 [21]: https://www.research.ibm.com/labs/watson/
 [22]: https://www.research.ibm.com/labs/tokyo/index_j.shtml
