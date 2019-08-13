@@ -31,8 +31,8 @@ title:  Hiroki Ouchi
 	<div class="item">Machine Learning</div>
 	<div class="detail">
 		Domain Adaptation<br>
+		Transductive Learning<br>
 		Semi-Supervised Learning<br>
-		Neural Networks<br>
 		Structured Prediction<br><br>
 	</div>
 </div>
@@ -52,6 +52,14 @@ title:  Hiroki Ouchi
 	<h3>Conference Papers</h3>
 	<hr>
 </div>
+
+> [Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis]
+
+>> Hiroki Ouchi, Jun Suzuki and Kentaro Inui. To appear at EMNLP 2019
+
+> [An Empirical Study of Span Representations in Argumentation Structure Parsing][10]
+
+>> Tatsuki Kuribayashi, Hiroki Ouchi, Naoya Inoue, Paul Reisert, Toshinori Miyoshi, Jun Suzuki and Kentaro Inui. In Proceedings of ACL 2019.
 
 > [A Span Selection Model for Semantic Role Labeling][9]
 
@@ -173,6 +181,7 @@ title:  Hiroki Ouchi
 [7]: http://aclweb.org/anthology/P/P17/P17-1146.pdf
 [8]: http://aclweb.org/anthology/C18-1308
 [9]: https://arxiv.org/pdf/1810.02245.pdf
+[10]: https://www.aclweb.org/anthology/P19-1464
 [11]: https://github.com/hiroki13
 [21]: https://www.research.ibm.com/labs/watson/
 [22]: https://www.research.ibm.com/labs/tokyo/index_j.shtml
