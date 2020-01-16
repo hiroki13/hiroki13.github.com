@@ -4,13 +4,13 @@ title:  Hiroki Ouchi / 大内 啓樹
 ---
 
 <div class="content">
-	<h3>Current Position</h3>
+	<h3>Profile</h3>
 	<hr>
 	<blockquote>
-		<p><b>Researcher</b></p>
+		<p>Postdoctoral Researcher</p>
 	</blockquote>
 	<blockquote>
-                <p><a href="http://www.riken.jp/en/" style="text-decoration:none;">RIKEN Center for Advanced Intelligence Project</a></p>
+                <p><a href="https://www.riken.jp/en/research/labs/aip/goalorient_tech/nat_lang_understand/index.html" style="text-decoration:none;">Natural Language Understanding Team, RIKEN Center for Advanced Intelligence Project</a></p>
         </blockquote>
 </div>
 
