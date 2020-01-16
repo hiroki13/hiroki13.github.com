@@ -1,6 +1,6 @@
 ---
 layout: layout
-title:  Hiroki Ouchi
+title:  Hiroki Ouchi / 大内 啓樹
 ---
 
 <div class="content">
