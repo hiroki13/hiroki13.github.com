@@ -9,13 +9,13 @@ h2 {
 
 header {
   background-color: #696969;
-  line-height:100px;
+  line-height:150px;
 }
 
 header h1 {
   font-size:40px;
   color: #ffffff;
-  font-family: "sans-serif";
+  font-family: "YuGothic";
 }
 
 body {
@@ -41,7 +41,7 @@ footer {
 .title{
   padding: 0.4em 0.4em;
   width: auto;
-  font-family: "sans-serif";
+  font-family: "YuGothic";
   text-decoration:none;
 }
 
