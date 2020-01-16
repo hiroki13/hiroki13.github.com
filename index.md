@@ -12,13 +12,15 @@ title:  Hiroki Ouchi / 大内 啓樹
 	<blockquote>
                 <p><a href="https://www.riken.jp/en/research/labs/aip/goalorient_tech/nat_lang_understand/index.html" style="text-decoration:none;">Natural Language Understanding Team, RIKEN Center for Advanced Intelligence Project</a></p>
         </blockquote>
+	<blockquote>
+                <p><a href="https://www.nlp.ecei.tohoku.ac.jp/" style="text-decoration:none;">Inui-Suzuki Laboratory, Tohoku University</a></p>
+        </blockquote>
 </div>
 
 
 <div class="content">
 	<h2>Research Subjects</h2>
 	<hr>
-
     <div class="double">
 		<div class="item">Natural Language Processing</div>
 		<div class="detail">
