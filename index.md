@@ -14,8 +14,23 @@ title:  Hiroki Ouchi / 大内 啓樹
         </blockquote>
 	<blockquote>
                 <p><a href="https://www.nlp.ecei.tohoku.ac.jp/" style="text-decoration:none;">Inui-Suzuki Laboratory, Tohoku University</a></p>
-        </blockquote>
+        </blockquote><br>
+	Ph.D in Engineering (Nara Institute of Science and Technology)
 </div>
+
+<div class="content">
+        <h2>Contact Info</h2>
+        <hr>
+</div>
+
+> email: {{site.author.email}}
+
+> [Research Gate Account][31]
+
+> [Github Account][32]
+
+> [Twitter Account][33]
+
 
 
 <div class="content">
@@ -117,12 +132,6 @@ title:  Hiroki Ouchi / 大内 啓樹
 >> Information Processing Society of Japan SIG-NL-229 (Dec. 2016)
 
 
-<div class="content">
-	<h2>Software</h2>
-	<hr>
-</div>
-
-> See [my github account][11]
 
 <div class="content">
 	<h2>Education</h2>
@@ -165,16 +174,6 @@ title:  Hiroki Ouchi / 大内 啓樹
 
 
 <div class="content">
-	<h2>Contact Info</h2>
-	<hr>
-</div>
-
-> email: {{site.author.email}}
-
-> [Research Gate Account][31]
-
-
-<div class="content">
 <h2>CV</h2>
 <hr>
 </div>
@@ -195,4 +194,6 @@ title:  Hiroki Ouchi / 大内 啓樹
 [22]: https://www.research.ibm.com/labs/tokyo/index_j.shtml
 [23]: http://docs.yahoo.co.jp/
 [31]: https://www.researchgate.net/profile/Hiroki_Ouchi
+[32]: https://github.com/hiroki13
+[33]: https://twitter.com/blankeyelephant
 
