@@ -16,7 +16,7 @@ title:  Hiroki Ouchi / 大内 啓樹
 
 
 <div class="content">
-	<h3>Research Interests</h3>
+	<h3>Research Subjects</h3>
 	<hr>
 
     <div class="double">
@@ -24,16 +24,17 @@ title:  Hiroki Ouchi / 大内 啓樹
 		<div class="detail">
 			Semantic Role Labeling<br>
 			Syntactic Parsing<br>
-			Dialog Modeling<br><br>
+			Named Entity Recognition<br>
+			Discourse Parsing<br><br>
 		</div>
 	</div>
 
 	<div class="item">Machine Learning</div>
 	<div class="detail">
+		Structured Prediction<br>
 		Domain Adaptation<br>
 		Transductive Learning<br>
-		Semi-Supervised Learning<br>
-		Structured Prediction<br><br>
+		Semi-Supervised Learning<br><br>
 	</div>
 </div>
 
