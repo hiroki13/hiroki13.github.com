@@ -4,7 +4,7 @@ title:  Hiroki Ouchi / 大内 啓樹
 ---
 
 <div class="content">
-	<h3>Profile</h3>
+	<h2>Profile</h2>
 	<hr>
 	<blockquote>
 		<p>Postdoctoral Researcher</p>
@@ -16,7 +16,7 @@ title:  Hiroki Ouchi / 大内 啓樹
 
 
 <div class="content">
-	<h3>Research Subjects</h3>
+	<h2>Research Subjects</h2>
 	<hr>
 
     <div class="double">
@@ -41,7 +41,7 @@ title:  Hiroki Ouchi / 大内 啓樹
 <div style="clear:left;"></div>
 
 <div class="content">
-	<h3>Journals</h3>
+	<h2>Journals</h2>
 	<hr>
 </div>
 
@@ -50,13 +50,13 @@ title:  Hiroki Ouchi / 大内 啓樹
 >> Hiroki Ouchi, Kevin Duh, Hiroyuki Shindo, Yuji Matsumoto. IEEE Transactions on Audio, Speech and Language Processing 2016
 
 <div class="content">
-	<h3>Conference Papers</h3>
+	<h2>Conference Papers</h2>
 	<hr>
 </div>
 
-> [Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis]
+> [Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis][101]
 
->> Hiroki Ouchi, Jun Suzuki and Kentaro Inui. To appear at EMNLP 2019
+>> Hiroki Ouchi, Jun Suzuki and Kentaro Inui. In Proceedings of EMNLP 2019
 
 > [An Empirical Study of Span Representations in Argumentation Structure Parsing][10]
 
@@ -88,9 +88,13 @@ title:  Hiroki Ouchi / 大内 啓樹
 
 
 <div class="content">
-	<h3>Awards</h3>
+	<h2>Awards</h2>
 	<hr>
 </div>
+
+> Outstanding Research Award
+
+>> Information Processing Society of Japan SIG-NL-241 (Aug. 2019)
 
 > Outstanding Research Award
 
@@ -112,14 +116,14 @@ title:  Hiroki Ouchi / 大内 啓樹
 
 
 <div class="content">
-	<h3>Software</h3>
+	<h2>Software</h2>
 	<hr>
 </div>
 
 > See [my github account][11]
 
 <div class="content">
-	<h3>Education</h3>
+	<h2>Education</h2>
 	<hr>
 </div>
 
@@ -141,7 +145,7 @@ title:  Hiroki Ouchi / 大内 啓樹
 
 
 <div class="content">
-	<h3>Experience</h3>
+	<h2>Experience</h2>
 	<hr>
 </div>
 
@@ -159,7 +163,7 @@ title:  Hiroki Ouchi / 大内 啓樹
 
 
 <div class="content">
-	<h3>Contact Info</h3>
+	<h2>Contact Info</h2>
 	<hr>
 </div>
 
@@ -169,7 +173,7 @@ title:  Hiroki Ouchi / 大内 啓樹
 
 
 <div class="content">
-<h3>CV</h3>
+<h2>CV</h2>
 <hr>
 </div>
 
@@ -183,6 +187,7 @@ title:  Hiroki Ouchi / 大内 啓樹
 [8]: http://aclweb.org/anthology/C18-1308
 [9]: https://arxiv.org/pdf/1810.02245.pdf
 [10]: https://www.aclweb.org/anthology/P19-1464
+[101]: https://www.aclweb.org/anthology/D19-1379.pdf
 [11]: https://github.com/hiroki13
 [21]: https://www.research.ibm.com/labs/watson/
 [22]: https://www.research.ibm.com/labs/tokyo/index_j.shtml
