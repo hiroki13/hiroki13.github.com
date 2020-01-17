@@ -108,13 +108,10 @@ title:  Hiroki Ouchi / 大内 啓樹
 	<hr>
 </div>
 
-> Outstanding Reviewers of EMNLP-IJCNLP 2019
-
->> EMNLP-IJCNLP 2019 (Nov. 2019)
-
-> Outstanding Research Award / 優秀研究賞
-
->> Information Processing Society of Japan SIG-NL-241 (Aug. 2019)
+- Outstanding Reviewers of EMNLP-IJCNLP 2019
+    - EMNLP-IJCNLP 2019 (Nov. 2019)
+- Outstanding Research Award / 優秀研究賞
+    - Information Processing Society of Japan SIG-NL-241 (Aug. 2019)
 
 > Outstanding Research Award / 優秀研究賞
 
