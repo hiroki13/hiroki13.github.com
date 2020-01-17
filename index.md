@@ -14,8 +14,7 @@ title:  Hiroki Ouchi / 大内 啓樹
         </blockquote>
 	<blockquote>
                 <p><a href="https://www.nlp.ecei.tohoku.ac.jp/" style="text-decoration:none;">Inui-Suzuki Laboratory, Tohoku University</a></p>
-        </blockquote><br>
-	Ph.D in Engineering (Nara Institute of Science and Technology)
+        </blockquote>
 </div>
 
 <div class="content">
