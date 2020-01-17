@@ -97,7 +97,7 @@ IPSJ SIG-NL-241 / 情報処理学会 自然言語処理研究会 (Aug. 2019)
 - **Outstanding Research Award / 優秀研究賞**<br>
 <u>Hiroki Ouchi</u>, Hiroyuki Shindo and Yuji Matsumoto<br>
 IPSJ SIG-NL-236 / 情報処理学会 自然言語処理研究会 (Jul. 2018)
-- **IPSJ Certificate of Excellent Ph.D. Thesis**<br>
+- **IPSJ Certificate of Excellent Ph.D. Thesis / 研究会推薦博士論文**<br>
 <u>Hiroki Ouchi</u><br>
 Information Processing Society of Japan / 情報処理学会 (Jul. 2018)
 - **Outstanding Research Award / 優秀研究賞**<br>
