@@ -133,6 +133,27 @@ title:  Hiroki Ouchi / 大内 啓樹
 
 
 <div class="content">
+	<h2>Resarch Grants</h2>
+	<hr>
+</div>
+
+> KAKENHI (Early-Career Scientists) / 科研費（若手研究）
+
+>> 言語解析における目標テキストへの特化技術に関する研究 (2019 - 2022)
+
+
+<div class="content">
+	<h2>Service Activities</h2>
+	<hr>
+</div>
+
+> International conference committee / 国際会議運営
+
+> Domestic conference committee / 国内会議運営
+
+
+
+<div class="content">
 	<h2>Education</h2>
 	<hr>
 </div>
@@ -170,17 +191,6 @@ title:  Hiroki Ouchi / 大内 啓樹
 > [Yahoo Japan Corporation][23]
 
 >> Engineering Internship (Aug. 2013 - Sep. 2013)
-
-
-
-<div class="content">
-	<h2>Resarch Grants</h2>
-	<hr>
-</div>
-
-> KAKENHI (Early-Career Scientists) / 科研費（若手研究）
-
->> 言語解析における目標テキストへの特化技術に関する研究 (2019 - 2022)
 
 
 <div class="content">
