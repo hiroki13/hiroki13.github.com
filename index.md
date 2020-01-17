@@ -6,29 +6,20 @@ title:  Hiroki Ouchi / 大内 啓樹
 <div class="content">
 	<h2>Profile</h2>
 	<hr>
-	<blockquote>
-		<p>Postdoctoral Researcher</p>
-	</blockquote>
-	<blockquote>
-                <p><a href="https://www.riken.jp/en/research/labs/aip/goalorient_tech/nat_lang_understand/index.html" style="text-decoration:none;">Natural Language Understanding Team, RIKEN Center for Advanced Intelligence Project</a></p>
-        </blockquote>
-	<blockquote>
-                <p><a href="https://www.nlp.ecei.tohoku.ac.jp/" style="text-decoration:none;">Inui-Suzuki Laboratory, Tohoku University</a></p>
-        </blockquote>
 </div>
+	- Postdoctoral Researcher<br>
+	[Natural Language Understanding Team, RIKEN Center for Advanced Intelligence Project](https://www.riken.jp/en/research/labs/aip/goalorient_tech/nat_lang_understand/index.html)<br>
+	[Inui-Suzuki Laboratory, Tohoku University](https://www.nlp.ecei.tohoku.ac.jp/)
 
 <div class="content">
         <h2>Contact Info</h2>
         <hr>
 </div>
 
-> email: {{site.author.email}}
-
-> [Research Gate Account][31]
-
-> [Github Account][32]
-
-> [Twitter Account][33]
+- email: {{site.author.email}}
+- [Research Gate Account][31]
+- [Github Account][32]
+- [Twitter Account][33]
 
 
 
@@ -70,21 +61,29 @@ title:  Hiroki Ouchi / 大内 啓樹
 </div>
 
 - [Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis][101]<br>
-<u>Hiroki Ouchi</u>, Jun Suzuki and Kentaro Inui. In Proceedings of EMNLP 2019
+<u>Hiroki Ouchi</u>, Jun Suzuki and Kentaro Inui<br>
+In Proceedings of EMNLP 2019
 - [An Empirical Study of Span Representations in Argumentation Structure Parsing][10]<br>
-Tatsuki Kuribayashi, <u>Hiroki Ouchi</u>, Naoya Inoue, Paul Reisert, Toshinori Miyoshi, Jun Suzuki and Kentaro Inui. In Proceedings of ACL 2019.
+Tatsuki Kuribayashi, <u>Hiroki Ouchi</u>, Naoya Inoue, Paul Reisert, Toshinori Miyoshi, Jun Suzuki and Kentaro Inui<br>
+In Proceedings of ACL 2019.
 - [A Span Selection Model for Semantic Role Labeling][9]<br>
-<u>Hiroki Ouchi</u>, Hiroyuki Shindo and Yuji Matsumoto. In Proceedings of EMNLP 2018.
+<u>Hiroki Ouchi</u>, Hiroyuki Shindo and Yuji Matsumoto<br>
+In Proceedings of EMNLP 2018.
 - [Addressee and Response Selection for Multilingual Conversation][8]<br>
-Motoki Sato, <u>Hiroki Ouchi</u> and Yuta Tsuboi. In Proceedings of COLING 2018.
+Motoki Sato, <u>Hiroki Ouchi</u> and Yuta Tsuboi<br>
+In Proceedings of COLING 2018.
 - [Neural Modeling of Multi-Predicate Interactions for Japanese Predicate Argument Structure Analysis][7]<br>
-<u>Hiroki Ouchi</u>, Hiroyuki Shindo and Yuji Matsumoto. In Proceedings of ACL 2017.
+<u>Hiroki Ouchi</u>, Hiroyuki Shindo and Yuji Matsumoto<br>
+In Proceedings of ACL 2017.
 - [Addressee and Response Selection for Multi-Party Conversation][5]<br>
-<u>Hiroki Ouchi</u>, Yuta Tsuboi. In Proceedings of EMNLP 2016.
+<u>Hiroki Ouchi</u>, Yuta Tsuboi<br>
+In Proceedings of EMNLP 2016.
 - [Joint Case Argument Identification for Japanese Predicate Argument Structure Analysis][4]<br>
-<u>Hiroki Ouchi</u>, Hiroyuki Shindo, Kevin Duh and Yuji Matsumoto. In Proceedings of ACL 2015.<br>
+<u>Hiroki Ouchi</u>, Hiroyuki Shindo, Kevin Duh and Yuji Matsumoto<br>
+In Proceedings of ACL 2015.<br>
 - [Improving Dependency Parsers with Supertags][3]<br>
-<u>Hiroki Ouchi</u>, Kevin Duh and Yuji Matsumoto. In Proceedings of EACL 2014.
+<u>Hiroki Ouchi</u>, Kevin Duh and Yuji Matsumoto<br>
+In Proceedings of EACL 2014.
 
 
 <div class="content">
