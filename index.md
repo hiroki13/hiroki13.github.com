@@ -15,11 +15,10 @@ title:  Hiroki Ouchi / 大内 啓樹
 email: {{site.author.email}}<br>
 [Research Gate Account](https://www.researchgate.net/profile/Hiroki_Ouchi)<br>
 [Github Account](https://github.com/hiroki13)<br>
-[Twitter Account](https://twitter.com/blankeyelephant)
-
+[Twitter Account](https://twitter.com/blankeyelephant)<br>
 <div class="content">
 <iframe src="https://player.vimeo.com/video/239251203" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/239251203">Addressee and Response Selection for Multi-Party Conversation --- Hiroki Ouchi 1 and Yuta Tsuboi</a> from <a href="https://vimeo.com/aclweb">ACL</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/239251203">Addressee and Response Selection for Multi-Party Conversation</a> from <a href="https://vimeo.com/aclweb">ACL</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 
 
