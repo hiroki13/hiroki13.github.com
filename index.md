@@ -35,8 +35,8 @@ Structured Prediction, Transductive Learning, Semi-Supervised Learning
 
 <table>
 <tr>
-<td><img src="_images/2019-0318-span1.jpg"></td>
-<td><img src="_images/2019-0318-span1.jpg"></td>
+<td><img src="https://hiroki13.github.io/_images/2019-0318-span1.jpg"></td>
+<td><img src="https://hiroki13.github.io/_images/2019-0318-span1.jpg"></td>
 </tr>
 </table>
 
