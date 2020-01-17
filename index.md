@@ -32,10 +32,13 @@ Account: [Google Scholar](https://scholar.google.co.jp/citations?user=RRrTYTEAAA
 Semantic Role Labeling, Syntactic Parsing, Named Entity Recognition
 - Machine Learning<br>
 Structured Prediction, Transductive Learning, Semi-Supervised Learning
-- Span-based Models for Structured Prediction<br>
-|![span_model1](https://hiroki13.github.io/_images/2019-0318-span1.jpg)|![span_model1](https://hiroki13.github.io/_images/2019-0318-span1.jpg)|
-|---|---|
-|test|test|
+
+<table>
+<tr>
+<td><img src="https://hiroki13.github.io/_images/2019-0318-span1.jpg"></td>
+<td><img src="https://hiroki13.github.io/_images/2019-0318-span1.jpg"></td>
+</tr>
+</table>
 
 
 <div class="content">
