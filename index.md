@@ -13,7 +13,7 @@ title:  Hiroki Ouchi / 大内 啓樹
 [Inui-Suzuki Laboratory, Tohoku University](https://www.nlp.ecei.tohoku.ac.jp/)
 - **Contact Info**<br>
 Email: {{site.author.email}}<br>
-Acount: [Research Gate](https://www.researchgate.net/profile/Hiroki_Ouchi), [Github](https://github.com/hiroki13), [Twitter](https://twitter.com/blankeyelephant)
+Account: [Google Scholar](https://scholar.google.co.jp/citations?user=RRrTYTEAAAAJ&hl=en), [Research Gate](https://www.researchgate.net/profile/Hiroki_Ouchi), [Github](https://github.com/hiroki13), [Twitter](https://twitter.com/blankeyelephant)
 
 <div class="content">
 <center>
