@@ -70,16 +70,12 @@ title:  Hiroki Ouchi / 大内 啓樹
 	<hr>
 </div>
 
-- [Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis][101]  
+- [Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis][101]<br>
 Hiroki Ouchi, Jun Suzuki and Kentaro Inui. In Proceedings of EMNLP 2019
-
-> [An Empirical Study of Span Representations in Argumentation Structure Parsing][10]
-
->> Tatsuki Kuribayashi, Hiroki Ouchi, Naoya Inoue, Paul Reisert, Toshinori Miyoshi, Jun Suzuki and Kentaro Inui. In Proceedings of ACL 2019.
-
-> [A Span Selection Model for Semantic Role Labeling][9]
-
->> Hiroki Ouchi, Hiroyuki Shindo and Yuji Matsumoto. In Proceedings of EMNLP 2018.
+- [An Empirical Study of Span Representations in Argumentation Structure Parsing][10]<br>
+Tatsuki Kuribayashi, Hiroki Ouchi, Naoya Inoue, Paul Reisert, Toshinori Miyoshi, Jun Suzuki and Kentaro Inui. In Proceedings of ACL 2019.
+- [A Span Selection Model for Semantic Role Labeling][9]<br>
+Hiroki Ouchi, Hiroyuki Shindo and Yuji Matsumoto. In Proceedings of EMNLP 2018.
 
 > [Addressee and Response Selection for Multilingual Conversation][8]
 
