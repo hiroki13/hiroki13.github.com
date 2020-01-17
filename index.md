@@ -28,26 +28,13 @@ email: {{site.author.email}}<br>
 <div class="content">
 	<h2>Research Interests</h2>
 	<hr>
-    <div class="double">
-		<div class="item">Natural Language Processing</div>
-		<div class="detail">
-			Semantic Role Labeling<br>
-			Syntactic Parsing<br>
-			Named Entity Recognition<br>
-			Discourse Parsing<br><br>
-		</div>
-	</div>
-
-	<div class="item">Machine Learning</div>
-	<div class="detail">
-		Structured Prediction<br>
-		Domain Adaptation<br>
-		Transductive Learning<br>
-		Semi-Supervised Learning<br><br>
-	</div>
 </div>
 
-<div style="clear:left;"></div>
+- Natural Language Processing<br>
+Semantic Role Labeling, Syntactic Parsing, Named Entity Recognition
+- Machine Learning<br>
+Structured Prediction, Transductive Learning, Semi-Supervised Learning
+
 
 <div class="content">
 	<h2>Journals</h2>
