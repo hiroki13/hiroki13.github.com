@@ -108,11 +108,15 @@ title:  Hiroki Ouchi / 大内 啓樹
 	<hr>
 </div>
 
-> Outstanding Research Award
+> Outstanding Reviewers of EMNLP-IJCNLP 2019
+
+>> EMNLP-IJCNLP 2019 (Nov. 2019)
+
+> Outstanding Research Award / 優秀研究賞
 
 >> Information Processing Society of Japan SIG-NL-241 (Aug. 2019)
 
-> Outstanding Research Award
+> Outstanding Research Award / 優秀研究賞
 
 >> Information Processing Society of Japan SIG-NL-236 (Jul. 2018)
 
@@ -120,15 +124,15 @@ title:  Hiroki Ouchi / 大内 啓樹
 
 >> Information Processing Society of Japan
 
-> Outstanding Research Award
+> Outstanding Research Award / 優秀研究賞
 
 >> Information Processing Society of Japan SIG-NL-233 (Oct. 2017)
 
-> Young Researcher Award
+> Young Researcher Award / 若手奨励賞
 
 >> Annual Meeting of Association for Natural Language Processing (Mar. 2017)
 
-> Outstanding Research Award
+> Outstanding Research Award / 優秀研究賞
 
 >> Information Processing Society of Japan SIG-NL-229 (Dec. 2016)
 
@@ -150,13 +154,19 @@ title:  Hiroki Ouchi / 大内 啓樹
 </div>
 
 > International conference committee / 国際会議運営
+
 >> ACL reviewer
+
 >> EMNLP reviewer
+
 >> IJCNLP reviewer
+
 >> IJCAI reviewer
 
 > Domestic conference committee / 国内会議運営
+
 >> 言語処理学会 論文論文誌 編集委員 (2020-)
+
 >> 情報処理学会 自然言語処理研究会 運営委員 (2018-)
 
 
