@@ -166,12 +166,12 @@ Advisor: Wataru Suzuki
 	<hr>
 </div>
 
-- [IBM Thomas J. Watson Research Center](https://www.research.ibm.com/labs/watson/)
-    - Research Internship (Jun. 2016 - Sep. 2016)
-- [IBM Research - Tokyo](https://www.research.ibm.com/labs/tokyo/index_j.shtml)
-    - Research Internship (Aug. 2015 - Oct. 2015)
-- [Yahoo Japan Corporation](http://docs.yahoo.co.jp/)
-    - Engineering Internship (Aug. 2013 - Sep. 2013)
+- [IBM Thomas J. Watson Research Center](https://www.research.ibm.com/labs/watson/)<br>
+Research Internship (Jun. 2016 - Sep. 2016)
+- [IBM Research - Tokyo](https://www.research.ibm.com/labs/tokyo/index_j.shtml)<br>
+Research Internship (Aug. 2015 - Oct. 2015)
+- [Yahoo Japan Corporation](http://docs.yahoo.co.jp/)<br>
+Engineering Internship (Aug. 2013 - Sep. 2013)
 
 
 <div class="content">
