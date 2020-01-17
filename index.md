@@ -134,7 +134,7 @@ IJCAI reviewer
 - Domestic conference committee / 国内会議運営<br>
 情報処理学会 自然言語処理研究会 運営委員 (2018-)
 - Journals / ジャーナル運営<br>
-言語処理学会 論文論文誌 editorial board (2020-)<br>
+言語処理学会 論文誌 editorial board (2020-)<br>
 言語処理学会 論文誌 reviewer<br>
 情報処理学会 論文誌 reviewer<br>
 人工知能学会 論文誌 reviewer<br>
@@ -147,18 +147,18 @@ IJCAI reviewer
 	<hr>
 </div>
 
-- Nara Institute of Science and Technology
-    - Ph.D. in Engineering (Mar. 2018)
-    - Advisor: Yuji Matsumoto
-- Nara Institute of Science and Technology
-    - M.S. in Engineering (Mar. 2015)
-    - Advisor: Yuji Matsumoto
-- Ritsumeikan University
-    - M.A. in Applied Linguistics (Mar. 2013)
-    - Advisor: Ken Matsuda
-- Miyagi University of Education
-    - B.A. in Education (Mar. 2011)
-    - Advisor: Wataru Suzuki
+- Nara Institute of Science and Technology<br>
+Ph.D. in Engineering (Mar. 2018)<br>
+Advisor: Yuji Matsumoto
+- Nara Institute of Science and Technology<br>
+M.S. in Engineering (Mar. 2015)<br>
+Advisor: Yuji Matsumoto
+- Ritsumeikan University<br>
+M.A. in Applied Linguistics (Mar. 2013)<br>
+Advisor: Ken Matsuda
+- Miyagi University of Education<br>
+B.A. in Education (Mar. 2011)<br>
+Advisor: Wataru Suzuki
 
 
 <div class="content">
