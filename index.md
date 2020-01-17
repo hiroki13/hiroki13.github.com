@@ -111,17 +111,17 @@ title:  Hiroki Ouchi / 大内 啓樹
 - Outstanding Reviewers of EMNLP-IJCNLP 2019
     - EMNLP-IJCNLP 2019 (Nov. 2019)
 - Outstanding Research Award / 優秀研究賞
-    - Information Processing Society of Japan SIG-NL-241 (Aug. 2019)
+    - IPSJ SIG-NL-241 / 情報処理学会 自然言語処理研究会 (Aug. 2019)
 - Outstanding Research Award / 優秀研究賞
-    - Information Processing Society of Japan SIG-NL-236 (Jul. 2018)
+    - IPSJ SIG-NL-236 / 情報処理学会 自然言語処理研究会 (Jul. 2018)
 - IPSJ Certificate of Excellent Ph.D. Thesis (Jul. 2018)
-    - Information Processing Society of Japan
+    - Information Processing Society of Japan / 情報処理学会
 - Outstanding Research Award / 優秀研究賞
-    - Information Processing Society of Japan SIG-NL-233 (Oct. 2017)
+    - IPSJ SIG-NL-233 / 情報処理学会 自然言語処理研究会  (Oct. 2017)
 - Young Researcher Award / 若手奨励賞
-    - Annual Meeting of Association for Natural Language Processing (Mar. 2017)
+    - Annual Meeting of ANLP / 言語処理学会 年次大会  (Mar. 2017)
 - Outstanding Research Award / 優秀研究賞
-    - Information Processing Society of Japan SIG-NL-229 (Dec. 2016)
+    - IPSJ SIG-NL-229 / 情報処理学会 自然言語処理研究会  (Dec. 2016)
 
 
 
