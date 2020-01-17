@@ -12,10 +12,8 @@ title:  Hiroki Ouchi / 大内 啓樹
 [RIKEN Center for Advanced Intelligence Project](https://www.riken.jp/en/research/labs/aip/goalorient_tech/nat_lang_understand/index.html)<br>
 [Inui-Suzuki Laboratory, Tohoku University](https://www.nlp.ecei.tohoku.ac.jp/)
 - **Contact Info**<br>
-email: {{site.author.email}}<br>
-[Research Gate Account](https://www.researchgate.net/profile/Hiroki_Ouchi)<br>
-[Github Account](https://github.com/hiroki13)<br>
-[Twitter Account](https://twitter.com/blankeyelephant)
+Email: {{site.author.email}}<br>
+Acount: [Research Gate](https://www.researchgate.net/profile/Hiroki_Ouchi), [Github](https://github.com/hiroki13), [Twitter](https://twitter.com/blankeyelephant)
 
 <div class="content">
 <center>
