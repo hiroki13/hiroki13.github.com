@@ -49,7 +49,8 @@ email: {{site.author.email}}<br>
 </div>
 
 - [Transition-Based Dependency Parsing Exploiting Supertags][6]<br>
-<u>Hiroki Ouchi</u>, Kevin Duh, Hiroyuki Shindo, Yuji Matsumoto. IEEE Transactions on Audio, Speech and Language Processing 2016
+<u>Hiroki Ouchi</u>, Kevin Duh, Hiroyuki Shindo, Yuji Matsumoto<br>
+IEEE Transactions on Audio, Speech and Language Processing 2016
 
 <div class="content">
 	<h2>Conference Papers</h2>
