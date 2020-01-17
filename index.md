@@ -168,7 +168,7 @@ Advisor: Wataru Suzuki
 
 
 <div class="content">
-	<h2>Experience</h2>
+	<h2>Work Experience</h2>
 	<hr>
 </div>
 
