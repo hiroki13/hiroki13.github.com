@@ -33,12 +33,7 @@ Semantic Role Labeling, Syntactic Parsing, Named Entity Recognition
 - Machine Learning<br>
 Structured Prediction, Transductive Learning, Semi-Supervised Learning
 
-<table>
-<tr>
-<td><img src="https://hiroki13.github.io/_images/2019-0318-span1.jpg"></td>
-<td><img src="https://hiroki13.github.io/_images/2019-0318-span1.jpg"></td>
-</tr>
-</table>
+![Span](https://hiroki13.github.io/_images/2019-0318-span1.jpg)
 
 
 <div class="content">
