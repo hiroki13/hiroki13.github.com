@@ -118,6 +118,8 @@ title:  Hiroki Ouchi / 大内 啓樹
 
 > IPSJ Certificate of Excellent Ph.D. Thesis (Jul. 2018)
 
+>> Information Processing Society of Japan
+
 > Outstanding Research Award
 
 >> Information Processing Society of Japan SIG-NL-233 (Oct. 2017)
@@ -148,8 +150,14 @@ title:  Hiroki Ouchi / 大内 啓樹
 </div>
 
 > International conference committee / 国際会議運営
+>> ACL reviewer
+>> EMNLP reviewer
+>> IJCNLP reviewer
+>> IJCAI reviewer
 
 > Domestic conference committee / 国内会議運営
+>> 言語処理学会 論文論文誌 編集委員 (2020-)
+>> 情報処理学会 自然言語処理研究会 運営委員 (2018-)
 
 
 
