@@ -61,7 +61,7 @@ title:  Hiroki Ouchi / 大内 啓樹
 	<hr>
 </div>
 
-> [Transition-Based Dependency Parsing Exploiting Supertags][6]
+- [Transition-Based Dependency Parsing Exploiting Supertags][6]
 
 >> Hiroki Ouchi, Kevin Duh, Hiroyuki Shindo, Yuji Matsumoto. IEEE Transactions on Audio, Speech and Language Processing 2016
 
@@ -70,9 +70,8 @@ title:  Hiroki Ouchi / 大内 啓樹
 	<hr>
 </div>
 
-> [Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis][101]
-
->> Hiroki Ouchi, Jun Suzuki and Kentaro Inui. In Proceedings of EMNLP 2019
+- [Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis][101]
+Hiroki Ouchi, Jun Suzuki and Kentaro Inui. In Proceedings of EMNLP 2019
 
 > [An Empirical Study of Span Representations in Argumentation Structure Parsing][10]
 
@@ -147,7 +146,7 @@ title:  Hiroki Ouchi / 大内 啓樹
 - Domestic conference committee / 国内会議運営
     - 情報処理学会 自然言語処理研究会 運営委員 (2018-)
 - Journals / ジャーナル運営
-    - 言語処理学会 論文論文誌 編集委員 (2020-)
+    - 言語処理学会 論文論文誌 editorial board (2020-)
     - 言語処理学会 論文誌 reviewer
     - 情報処理学会 論文誌 reviewer
     - 人工知能学会 論文誌 reviewer
