@@ -32,6 +32,10 @@ Account: [Google Scholar](https://scholar.google.co.jp/citations?user=RRrTYTEAAA
 Semantic Role Labeling, Syntactic Parsing, Named Entity Recognition
 - Machine Learning<br>
 Structured Prediction, Transductive Learning, Semi-Supervised Learning
+- Span-based Models for Structured Prediction<br>
+|![span_model1](/_images/2019-0318-span1.pdf)|![span_model1](/_images/2019-0318-span1.pdf)|
+|---|---|
+|YouTube 128×128|Twitter 128×128|
 
 
 <div class="content">
