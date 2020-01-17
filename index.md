@@ -155,21 +155,18 @@ title:  Hiroki Ouchi / 大内 啓樹
 	<hr>
 </div>
 
-> Nara Institute of Science and Technology
-
->> Ph.D. in Engineering (Mar. 2018)
-
-> Nara Institute of Science and Technology
-
->> M.S. in Engineering (Mar. 2015)
-
-> Ritsumeikan University
-
->> M.A. in Applied Linguistics (Mar. 2013)
-
-> Miyagi University of Education
-
->> B.A. in Education (Mar. 2011)
+- Nara Institute of Science and Technology
+    - Ph.D. in Engineering (Mar. 2018)
+    - Advisor: Yuji Matsumoto
+- Nara Institute of Science and Technology
+    - M.S. in Engineering (Mar. 2015)
+    - Advisor: Yuji Matsumoto
+- Ritsumeikan University
+    - M.A. in Applied Linguistics (Mar. 2013)
+    - Advisor: Ken Matsuda
+- Miyagi University of Education
+    - B.A. in Education (Mar. 2011)
+    - Advisor: Wataru Suzuki
 
 
 <div class="content">
@@ -177,17 +174,12 @@ title:  Hiroki Ouchi / 大内 啓樹
 	<hr>
 </div>
 
-> [IBM Thomas J. Watson Research Center][21]
-
->> Research Internship (Jun. 2016 - Sep. 2016)
-
-> [IBM Research - Tokyo][22]
-
->> Research Internship (Aug. 2015 - Oct. 2015)
-
-> [Yahoo Japan Corporation][23]
-
->> Engineering Internship (Aug. 2013 - Sep. 2013)
+- [IBM Thomas J. Watson Research Center][21]
+    - Research Internship (Jun. 2016 - Sep. 2016)
+- [IBM Research - Tokyo][22]
+    - Research Internship (Aug. 2015 - Oct. 2015)
+- [Yahoo Japan Corporation][23]
+    - Engineering Internship (Aug. 2013 - Sep. 2013)
 
 
 <div class="content">
