@@ -88,25 +88,25 @@ In Proceedings of EACL 2014.
 	<hr>
 </div>
 
-- Outstanding Reviewers of EMNLP-IJCNLP 2019<br>
+- **Outstanding Reviewers of EMNLP-IJCNLP 2019**<br>
 <u>Hiroki Ouchi</u><br>
 EMNLP-IJCNLP 2019 (Nov. 2019)
-- Outstanding Research Award / 優秀研究賞<br>
+- **Outstanding Research Award / 優秀研究賞**<br>
 Masatoshi Suzuki, Koji Matsuda, <u>Hiroki Ouchi</u>, Jun Suzuki and Inui Kentaro<br>
 IPSJ SIG-NL-241 / 情報処理学会 自然言語処理研究会 (Aug. 2019)
-- Outstanding Research Award / 優秀研究賞<br>
+- **Outstanding Research Award / 優秀研究賞**<br>
 <u>Hiroki Ouchi</u>, Hiroyuki Shindo and Yuji Matsumoto<br>
 IPSJ SIG-NL-236 / 情報処理学会 自然言語処理研究会 (Jul. 2018)
-- IPSJ Certificate of Excellent Ph.D. Thesis<br>
+- **IPSJ Certificate of Excellent Ph.D. Thesis**<br>
 <u>Hiroki Ouchi</u><br>
 Information Processing Society of Japan / 情報処理学会 (Jul. 2018)
-- Outstanding Research Award / 優秀研究賞<br>
+- **Outstanding Research Award / 優秀研究賞**<br>
 <u>Hiroki Ouchi</u>, Hiroyuki Shindo and Yuji Matsumoto<br>
 IPSJ SIG-NL-233 / 情報処理学会 自然言語処理研究会  (Oct. 2017)
-- Young Researcher Award / 若手奨励賞<br>
+- **Young Researcher Award / 若手奨励賞**<br>
 <u>Hiroki Ouchi</u>, Hiroyuki Shindo and Yuji Matsumoto<br>
 Annual Meeting of ANLP / 言語処理学会 年次大会  (Mar. 2017)
-- Outstanding Research Award / 優秀研究賞<br>
+- **Outstanding Research Award / 優秀研究賞**<br>
 <u>Hiroki Ouchi</u>, Hiroyuki Shindo and Yuji Matsumoto<br>
 IPSJ SIG-NL-229 / 情報処理学会 自然言語処理研究会  (Dec. 2016)
 
