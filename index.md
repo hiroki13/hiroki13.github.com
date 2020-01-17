@@ -117,8 +117,8 @@ IPSJ SIG-NL-229 / 情報処理学会 自然言語処理研究会  (Dec. 2016)
 	<hr>
 </div>
 
-- KAKENHI (Early-Career Scientists) / 科研費（若手研究）
-    - 言語解析における目標テキストへの特化技術に関する研究 (2019 - 2022)
+- KAKENHI (Early-Career Scientists) / 科研費（若手研究）<br>
+言語解析における目標テキストへの特化技術に関する研究 (2019 - 2022)
 
 
 <div class="content">
@@ -126,19 +126,19 @@ IPSJ SIG-NL-229 / 情報処理学会 自然言語処理研究会  (Dec. 2016)
 	<hr>
 </div>
 
-- International conference committee / 国際会議運営
-    - ACL reviewer
-    - EMNLP reviewer
-    - IJCNLP reviewer
-    - IJCAI reviewer
-- Domestic conference committee / 国内会議運営
-    - 情報処理学会 自然言語処理研究会 運営委員 (2018-)
-- Journals / ジャーナル運営
-    - 言語処理学会 論文論文誌 editorial board (2020-)
-    - 言語処理学会 論文誌 reviewer
-    - 情報処理学会 論文誌 reviewer
-    - 人工知能学会 論文誌 reviewer
-    - 電子情報通信学会 論文誌 reviewer
+- International conference committee / 国際会議運営<br>
+ACL reviewer<br>
+EMNLP reviewer<br>
+IJCNLP reviewer<br>
+IJCAI reviewer
+- Domestic conference committee / 国内会議運営<br>
+情報処理学会 自然言語処理研究会 運営委員 (2018-)
+- Journals / ジャーナル運営<br>
+言語処理学会 論文論文誌 editorial board (2020-)<br>
+言語処理学会 論文誌 reviewer<br>
+情報処理学会 論文誌 reviewer<br>
+人工知能学会 論文誌 reviewer<br>
+電子情報通信学会 論文誌 reviewer
 
 
 
@@ -166,11 +166,11 @@ IPSJ SIG-NL-229 / 情報処理学会 自然言語処理研究会  (Dec. 2016)
 	<hr>
 </div>
 
-- [IBM Thomas J. Watson Research Center][21]
+- [IBM Thomas J. Watson Research Center](https://www.research.ibm.com/labs/watson/)
     - Research Internship (Jun. 2016 - Sep. 2016)
-- [IBM Research - Tokyo][22]
+- [IBM Research - Tokyo](https://www.research.ibm.com/labs/tokyo/index_j.shtml)
     - Research Internship (Aug. 2015 - Oct. 2015)
-- [Yahoo Japan Corporation][23]
+- [Yahoo Japan Corporation](http://docs.yahoo.co.jp/)
     - Engineering Internship (Aug. 2013 - Sep. 2013)
 
 
@@ -190,8 +190,4 @@ IPSJ SIG-NL-229 / 情報処理学会 自然言語処理研究会  (Dec. 2016)
 [9]: https://arxiv.org/pdf/1810.02245.pdf
 [10]: https://www.aclweb.org/anthology/P19-1464
 [101]: https://www.aclweb.org/anthology/D19-1379.pdf
-[11]: https://github.com/hiroki13
-[21]: https://www.research.ibm.com/labs/watson/
-[22]: https://www.research.ibm.com/labs/tokyo/index_j.shtml
-[23]: http://docs.yahoo.co.jp/
 
