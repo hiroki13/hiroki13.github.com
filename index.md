@@ -8,10 +8,10 @@ title:  Hiroki Ouchi / 大内 啓樹
 	<hr>
 </div>
 
-- Postdoctoral Researcher<br>
+- **Postdoctoral Researcher**<br>
 [Natural Language Understanding Team, RIKEN Center for Advanced Intelligence Project](https://www.riken.jp/en/research/labs/aip/goalorient_tech/nat_lang_understand/index.html)<br>
 [Inui-Suzuki Laboratory, Tohoku University](https://www.nlp.ecei.tohoku.ac.jp/)
-- Contact Info<br>
+- **Contact Info**<br>
 email: {{site.author.email}}<br>
 [Research Gate Account](https://www.researchgate.net/profile/Hiroki_Ouchi)<br>
 [Github Account](https://github.com/hiroki13)<br>
