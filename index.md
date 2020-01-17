@@ -70,8 +70,7 @@ title:  Hiroki Ouchi / 大内 啓樹
 	<hr>
 </div>
 
-- [Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis][101]
-
+- [Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis][101]  
 Hiroki Ouchi, Jun Suzuki and Kentaro Inui. In Proceedings of EMNLP 2019
 
 > [An Empirical Study of Span Representations in Argumentation Structure Parsing][10]
