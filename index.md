@@ -11,16 +11,11 @@ title:  Hiroki Ouchi / 大内 啓樹
 - Postdoctoral Researcher<br>
 [Natural Language Understanding Team, RIKEN Center for Advanced Intelligence Project](https://www.riken.jp/en/research/labs/aip/goalorient_tech/nat_lang_understand/index.html)<br>
 [Inui-Suzuki Laboratory, Tohoku University](https://www.nlp.ecei.tohoku.ac.jp/)
-
-<div class="content">
-        <h2>Contact Info</h2>
-        <hr>
-</div>
-
-- email: {{site.author.email}}
-- [Research Gate Account][31]
-- [Github Account][32]
-- [Twitter Account][33]
+- Contact Info<br>
+email: {{site.author.email}}<br>
+[Research Gate Account](https://www.researchgate.net/profile/Hiroki_Ouchi)<br>
+[Github Account](https://github.com/hiroki13)<br>
+[Twitter Account](https://twitter.com/blankeyelephant)
 
 
 
@@ -198,7 +193,4 @@ IPSJ SIG-NL-229 / 情報処理学会 自然言語処理研究会  (Dec. 2016)
 [21]: https://www.research.ibm.com/labs/watson/
 [22]: https://www.research.ibm.com/labs/tokyo/index_j.shtml
 [23]: http://docs.yahoo.co.jp/
-[31]: https://www.researchgate.net/profile/Hiroki_Ouchi
-[32]: https://github.com/hiroki13
-[33]: https://twitter.com/blankeyelephant
 
