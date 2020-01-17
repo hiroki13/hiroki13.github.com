@@ -172,6 +172,17 @@ title:  Hiroki Ouchi / 大内 啓樹
 >> Engineering Internship (Aug. 2013 - Sep. 2013)
 
 
+
+<div class="content">
+	<h2>Resarch Grants</h2>
+	<hr>
+</div>
+
+> KAKENHI (Early-Career Scientists) / 科研費（若手研究）
+
+>> 言語解析における目標テキストへの特化技術に関する研究 (2019 - 2022)
+
+
 <div class="content">
 <h2>CV</h2>
 <hr>
