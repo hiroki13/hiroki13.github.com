@@ -130,9 +130,8 @@ title:  Hiroki Ouchi / 大内 啓樹
 	<hr>
 </div>
 
-> KAKENHI (Early-Career Scientists) / 科研費（若手研究）
-
->> 言語解析における目標テキストへの特化技術に関する研究 (2019 - 2022)
+- KAKENHI (Early-Career Scientists) / 科研費（若手研究）
+    - 言語解析における目標テキストへの特化技術に関する研究 (2019 - 2022)
 
 
 <div class="content">
@@ -140,21 +139,14 @@ title:  Hiroki Ouchi / 大内 啓樹
 	<hr>
 </div>
 
-> International conference committee / 国際会議運営
-
->> ACL reviewer
-
->> EMNLP reviewer
-
->> IJCNLP reviewer
-
->> IJCAI reviewer
-
-> Domestic conference committee / 国内会議運営
-
->> 言語処理学会 論文論文誌 編集委員 (2020-)
-
->> 情報処理学会 自然言語処理研究会 運営委員 (2018-)
+- International conference committee / 国際会議運営
+    - ACL reviewer
+    - EMNLP reviewer
+    - IJCNLP reviewer
+    - IJCAI reviewer
+- Domestic conference committee / 国内会議運営
+    - 言語処理学会 論文論文誌 編集委員 (2020-)
+    - 情報処理学会 自然言語処理研究会 運営委員 (2018-)
 
 
 
