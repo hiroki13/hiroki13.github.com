@@ -145,8 +145,13 @@ title:  Hiroki Ouchi / 大内 啓樹
     - IJCNLP reviewer
     - IJCAI reviewer
 - Domestic conference committee / 国内会議運営
-    - 言語処理学会 論文論文誌 編集委員 (2020-)
     - 情報処理学会 自然言語処理研究会 運営委員 (2018-)
+- Journals / ジャーナル運営
+    - 言語処理学会 論文論文誌 編集委員 (2020-)
+    - 言語処理学会 論文誌 reviewer
+    - 情報処理学会 論文誌 reviewer
+    - 人工知能学会 論文誌 reviewer
+    - 電子情報通信学会 論文誌 reviewer
 
 
 
