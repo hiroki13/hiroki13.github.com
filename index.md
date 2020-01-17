@@ -128,7 +128,7 @@ IPSJ SIG-NL-229 / 情報処理学会 自然言語処理研究会  (Dec. 2016)
 
 
 <div class="content">
-	<h2>Service Activities</h2>
+	<h2>Academic Activities</h2>
 	<hr>
 </div>
 
