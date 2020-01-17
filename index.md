@@ -26,7 +26,7 @@ email: {{site.author.email}}<br>
 
 
 <div class="content">
-	<h2>Research Subjects</h2>
+	<h2>Research Interests</h2>
 	<hr>
     <div class="double">
 		<div class="item">Natural Language Processing</div>
