@@ -61,9 +61,8 @@ title:  Hiroki Ouchi / 大内 啓樹
 	<hr>
 </div>
 
-- [Transition-Based Dependency Parsing Exploiting Supertags][6]
-
->> Hiroki Ouchi, Kevin Duh, Hiroyuki Shindo, Yuji Matsumoto. IEEE Transactions on Audio, Speech and Language Processing 2016
+- [Transition-Based Dependency Parsing Exploiting Supertags][6]<br>
+<u>Hiroki Ouchi</u>, Kevin Duh, Hiroyuki Shindo, Yuji Matsumoto. IEEE Transactions on Audio, Speech and Language Processing 2016
 
 <div class="content">
 	<h2>Conference Papers</h2>
@@ -71,21 +70,21 @@ title:  Hiroki Ouchi / 大内 啓樹
 </div>
 
 - [Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis][101]<br>
-Hiroki Ouchi, Jun Suzuki and Kentaro Inui. In Proceedings of EMNLP 2019
+<u>Hiroki Ouchi</u>, Jun Suzuki and Kentaro Inui. In Proceedings of EMNLP 2019
 - [An Empirical Study of Span Representations in Argumentation Structure Parsing][10]<br>
-Tatsuki Kuribayashi, Hiroki Ouchi, Naoya Inoue, Paul Reisert, Toshinori Miyoshi, Jun Suzuki and Kentaro Inui. In Proceedings of ACL 2019.
+Tatsuki Kuribayashi, <u>Hiroki Ouchi</u>, Naoya Inoue, Paul Reisert, Toshinori Miyoshi, Jun Suzuki and Kentaro Inui. In Proceedings of ACL 2019.
 - [A Span Selection Model for Semantic Role Labeling][9]<br>
-Hiroki Ouchi, Hiroyuki Shindo and Yuji Matsumoto. In Proceedings of EMNLP 2018.
+<u>Hiroki Ouchi</u>, Hiroyuki Shindo and Yuji Matsumoto. In Proceedings of EMNLP 2018.
 - [Addressee and Response Selection for Multilingual Conversation][8]<br>
-Motoki Sato, Hiroki Ouchi and Yuta Tsuboi. In Proceedings of COLING 2018.
+Motoki Sato, <u>Hiroki Ouchi</u> and Yuta Tsuboi. In Proceedings of COLING 2018.
 - [Neural Modeling of Multi-Predicate Interactions for Japanese Predicate Argument Structure Analysis][7]<br>
-Hiroki Ouchi, Hiroyuki Shindo and Yuji Matsumoto. In Proceedings of ACL 2017.
+<u>Hiroki Ouchi</u>, Hiroyuki Shindo and Yuji Matsumoto. In Proceedings of ACL 2017.
 - [Addressee and Response Selection for Multi-Party Conversation][5]<br>
-Hiroki Ouchi, Yuta Tsuboi. In Proceedings of EMNLP 2016.
+<u>Hiroki Ouchi</u>, Yuta Tsuboi. In Proceedings of EMNLP 2016.
 - [Joint Case Argument Identification for Japanese Predicate Argument Structure Analysis][4]<br>
-Hiroki Ouchi, Hiroyuki Shindo, Kevin Duh and Yuji Matsumoto. In Proceedings of ACL 2015.<br>
+<u>Hiroki Ouchi</u>, Hiroyuki Shindo, Kevin Duh and Yuji Matsumoto. In Proceedings of ACL 2015.<br>
 - [Improving Dependency Parsers with Supertags][3]<br>
-Hiroki Ouchi, Kevin Duh and Yuji Matsumoto. In Proceedings of EACL 2014.
+<u>Hiroki Ouchi</u>, Kevin Duh and Yuji Matsumoto. In Proceedings of EACL 2014.
 
 
 <div class="content">
