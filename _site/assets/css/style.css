@@ -1,5 +1,6 @@
 h1 {
   color: #696969;
+  font-family: "sans-serif";
 }
 
 h2 {
@@ -7,13 +8,13 @@ h2 {
 }
 
 header {
-  background-color: #696969;
-  line-height:150px;
+  line-height:100px;
 }
 
 header h1 {
   font-size:40px;
-  color: #ffffff;
+  color: #696969;
+  font-family: "sans-serif";
 }
 
 body {
@@ -39,7 +40,6 @@ footer {
 .title{
   padding: 0.4em 0.4em;
   width: auto;
-  font-family: Arial;
   text-decoration:none;
 }
 
@@ -66,7 +66,6 @@ footer {
 }
 
 .item{
-  font-style: italic;
   width: 45%;
   float: left;
   margin-left: 30pt;

@@ -48,6 +48,9 @@ IEEE Transactions on Audio, Speech and Language Processing 2016
 	<hr>
 </div>
 
+- [Instance-Based Learning of Span Representations: A Case Study through Named Entity Recognition][102]<br>
+<u>Hiroki Ouchi</u>, Jun Suzuki, Sosuke Kobayashi, Sho Yokoi, Tatsuki Kuribayashi, Ryuto Konno, Kentaro Inui<br>
+In Proceedings of ACL 2020
 - [Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis][101]<br>
 <u>Hiroki Ouchi</u>, Jun Suzuki and Kentaro Inui<br>
 In Proceedings of EMNLP 2019
@@ -79,6 +82,9 @@ In Proceedings of EACL 2014.
 	<hr>
 </div>
 
+- **Outstanding Reviewers of EMNLP 2020**<br>
+<u>Hiroki Ouchi</u><br>
+EMNLP 2020 (Nov. 2020)
 - **Outstanding Reviewers of EMNLP-IJCNLP 2019**<br>
 <u>Hiroki Ouchi</u><br>
 EMNLP-IJCNLP 2019 (Nov. 2019)
@@ -172,13 +178,13 @@ Engineering Internship (Aug. 2013 - Sep. 2013)
 
 > Available on Request
 
-[3]: https://aclweb.org/anthology/E/E14/E14-4030.pdf
-[4]: https://aclweb.org/anthology/P/P15/P15-1093.pdf
-[5]: https://aclweb.org/anthology/D/D16/D16-1231.pdf
+[3]: https://www.aclweb.org/anthology/E14-4030/
+[4]: https://www.aclweb.org/anthology/P15-1093/
+[5]: https://www.aclweb.org/anthology/D16-1231/
 [6]: http://ieeexplore.ieee.org/document/7533450/
-[7]: http://aclweb.org/anthology/P/P17/P17-1146.pdf
-[8]: http://aclweb.org/anthology/C18-1308
-[9]: https://arxiv.org/pdf/1810.02245.pdf
-[10]: https://www.aclweb.org/anthology/P19-1464
-[101]: https://www.aclweb.org/anthology/D19-1379.pdf
-
+[7]: https://www.aclweb.org/anthology/P17-1146/
+[8]: https://www.aclweb.org/anthology/C18-1308/
+[9]: https://www.aclweb.org/anthology/D18-1191/
+[10]: https://www.aclweb.org/anthology/P19-1464/
+[101]: https://www.aclweb.org/anthology/D19-1379/
+[102]: https://www.aclweb.org/anthology/2020.acl-main.575/
