@@ -12,7 +12,7 @@ title:  Hiroki Ouchi / 大内 啓樹
 [Natural Language Processing Laboratory, Nara Institute of Science and Technology](https://nlp.naist.jp/en/)<br>
 - **Contact Info**<br>
 Email: {{site.author.email}}<br>
-Account: [Google Scholar](https://scholar.google.co.jp/citations?user=RRrTYTEAAAAJ&hl=en), [Research Gate](https://www.researchgate.net/profile/Hiroki_Ouchi), [Github](https://github.com/hiroki13), [Twitter](https://twitter.com/blankeyelephant)
+Account: [researchmap](https://researchmap.jp/hirokiouchi), [Google Scholar](https://scholar.google.co.jp/citations?user=RRrTYTEAAAAJ&hl=en), [Research Gate](https://www.researchgate.net/profile/Hiroki_Ouchi), [Github](https://github.com/hiroki13), [Twitter](https://twitter.com/blankeyelephant)
 
 <div class="content">
 <center>
