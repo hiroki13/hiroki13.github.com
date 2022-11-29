@@ -46,12 +46,15 @@ Transactions of the Association for Computational Linguistics (TACL) 2021
 IEEE Transactions on Audio, Speech and Language Processing 2016
 
 <div class="content">
-	<h2>Conference Papers</h2>
+	<h2>Refereed Conference Papers (Selected)</h2>
 	<hr>
 </div>
 
+- [Iterative Span Selection: Self-Emergence of Resolving Orders in Semantic Role Labeling][2022-1]<br>
+Shuhei Kurita, <u>Hiroki Ouchi</u>, Kentaro Inui and Satoshi Sekine<br>
+In Proceedings of COLING 2022
 - [Instance-Based Learning of Span Representations: A Case Study through Named Entity Recognition][102]<br>
-<u>Hiroki Ouchi</u>, Jun Suzuki, Sosuke Kobayashi, Sho Yokoi, Tatsuki Kuribayashi, Ryuto Konno, Kentaro Inui<br>
+<u>Hiroki Ouchi</u>, Jun Suzuki, Sosuke Kobayashi, Sho Yokoi, Tatsuki Kuribayashi, Ryuto Konno and Kentaro Inui<br>
 In Proceedings of ACL 2020
 - [Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis][101]<br>
 <u>Hiroki Ouchi</u>, Jun Suzuki and Kentaro Inui<br>
@@ -84,6 +87,18 @@ In Proceedings of EACL 2014.
 	<hr>
 </div>
 
+- **Outstanding Research Award / 優秀研究賞**<br>
+Shun Sato, <u>Hiroki Ouchi</u>, Kazuaki Hanawa, Shota Sasaki and Inui Kentaro<br>
+IPSJ SIG-NL-249 / 情報処理学会 自然言語処理研究会 (Jul. 2021)
+- **Special Committee Award / 委員特別賞**<br>
+Masatoshi Suzuki, Koji Matsuda, <u>Hiroki Ouchi</u>, Jun Suzuki and Inui Kentaro<br>
+Annual Meeting of ANLP / 言語処理学会 年次大会  (Mar. 2021)
+- **Special Committee Award / 委員特別賞**<br>
+Shiki Sato, Reina Akama, <u>Hiroki Ouchi</u>, Jun Suzuki and Inui Kentaro<br>
+Annual Meeting of ANLP / 言語処理学会 年次大会  (Mar. 2021)
+- **Best Paper Award / 最優秀論文賞**<br>
+Tatsuki Kuribayashi, <u>Hiroki Ouchi</u>, Naoya Inoue, Jun Suzuki, Paul Reisert, Toshinori Miyoshi and Kentaro Inui<br>
+The Association for Natural Language Processing / 言語処理学会論文誌  (Mar. 2021)
 - **Outstanding Reviewers of EMNLP 2020**<br>
 <u>Hiroki Ouchi</u><br>
 EMNLP 2020 (Nov. 2020)
@@ -116,9 +131,14 @@ IPSJ SIG-NL-229 / 情報処理学会 自然言語処理研究会  (Dec. 2016)
 	<hr>
 </div>
 
-- KAKENHI (Early-Career Scientists) / 科研費（若手研究）<br>
-言語解析における目標テキストへの特化技術に関する研究 (2019 - 2022)
-
+- KAKENHI Scientific Research (B) / 科研費基盤研究(B)<br>
+Project: [文章中の人物の移動軌跡を実世界の地図上に接地するための基礎研究とその応用][2022-kaken] (2022 - 2025)<br>
+Project Number: 22H03648<br>
+Budget Amount: ¥13,910,000
+- KAKENHI Early-Career Scientists / 科研費若手研究<br>
+Project: [言語解析における目標テキストへの特化技術に関する研究][2019-kaken] (2019 - 2022)<br>
+Project Number: 19K20351<br>
+Budget Amount: ¥3,510,000
 
 <div class="content">
 	<h2>Academic Activities</h2>
@@ -126,6 +146,7 @@ IPSJ SIG-NL-229 / 情報処理学会 自然言語処理研究会  (Dec. 2016)
 </div>
 
 - International conference committee / 国際会議運営<br>
+TACL reviewer<br>
 ACL reviewer<br>
 EMNLP reviewer<br>
 IJCNLP reviewer<br>
@@ -195,3 +216,6 @@ Engineering Internship (Aug. 2013 - Sep. 2013)
 [101]: https://www.aclweb.org/anthology/D19-1379/
 [102]: https://www.aclweb.org/anthology/2020.acl-main.575/
 [103]: https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00439/108864
+[2022-1]: https://aclanthology.org/2022.coling-1.478/
+[2019-kaken]: https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19K20351/
+[2022-kaken]: https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H03648/
