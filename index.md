@@ -12,7 +12,7 @@ title:  Hiroki Ouchi / 大内 啓樹
 [Natural Language Processing Laboratory, Nara Institute of Science and Technology](https://nlp.naist.jp/en/)<br>
 - **Contact Info**<br>
 Email: {{site.author.email}}<br>
-Account: [researchmap](https://researchmap.jp/hirokiouchi), [Google Scholar](https://scholar.google.co.jp/citations?user=RRrTYTEAAAAJ&hl=en), [Research Gate](https://www.researchgate.net/profile/Hiroki_Ouchi), [Github](https://github.com/hiroki13), [Twitter](https://twitter.com/blankeyelephant)
+Account: [Google Scholar](https://scholar.google.co.jp/citations?user=RRrTYTEAAAAJ&hl=en), [researchmap](https://researchmap.jp/hirokiouchi), [Twitter](https://twitter.com/blankeyelephant), [Research Gate](https://www.researchgate.net/profile/Hiroki_Ouchi), [Github](https://github.com/hiroki13), [Twitter](https://twitter.com/blankeyelephant)
 
 <div class="content">
 <center>
@@ -27,9 +27,11 @@ Account: [researchmap](https://researchmap.jp/hirokiouchi), [Google Scholar](htt
 	<hr>
 </div>
 
-- Natural Language Processing<br>
+- <b>Geography & Language</b><br>
+Currently, I am very interested in the intersection between Geographic Information Science (GIS) and Natural Language Processing (NLP). In order to reach the potential of the two fields, I try to connect between maps and texts; i.e., grounding location-related expressions onto a map.
+- <b>Natural Language Processing</b><br>
 Semantic Parsing, Syntactic Parsing, Named Entity Recognition
-- Machine Learning<br>
+- <b>Machine Learning</b><br>
 Structured Prediction, Transductive Learning, Semi-Supervised Learning
 
 
@@ -146,7 +148,7 @@ Budget Amount: ¥3,510,000
 </div>
 
 - International conference committee / 国際会議運営<br>
-TACL reviewer<br>
+TACL reviewer (2020-)<br>
 ACL reviewer<br>
 EMNLP reviewer<br>
 IJCNLP reviewer<br>
@@ -196,14 +198,6 @@ Research Internship (Jun. 2016 - Sep. 2016)
 Research Internship (Aug. 2015 - Oct. 2015)
 - [Yahoo Japan Corporation](http://docs.yahoo.co.jp/)<br>
 Engineering Internship (Aug. 2013 - Sep. 2013)
-
-
-<div class="content">
-<h2>CV</h2>
-<hr>
-</div>
-
-> Available on Request
 
 [3]: https://www.aclweb.org/anthology/E14-4030/
 [4]: https://www.aclweb.org/anthology/P15-1093/
