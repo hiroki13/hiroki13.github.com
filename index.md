@@ -27,12 +27,13 @@ Account: [Google Scholar](https://scholar.google.co.jp/citations?user=RRrTYTEAAA
 	<hr>
 </div>
 
-- <b>Geography & Language</b><br>
-Currently, I am very interested in the intersection between Geographic Information Science (GIS) and Natural Language Processing (NLP). In order to reach the potential of the two fields, I try to connect between maps and texts; i.e., grounding location-related expressions onto a map.
+- <b>[Geography & Language](https://sites.google.com/view/geography-and-language)</b><br>
+Currently, I am very interested in the intersection between Geographic Information Science (GIS) and Natural Language Processing (NLP). In order to reach the potential of the two fields, our [Geography & Language](https://sites.google.com/view/geography-and-language) project tries to connect between maps and text; i.e., grounding location-related expressions onto a map.
 - <b>Natural Language Processing</b><br>
 Semantic Parsing, Syntactic Parsing, Named Entity Recognition
 - <b>Machine Learning</b><br>
 Structured Prediction, Transductive Learning, Semi-Supervised Learning
+<iframe class="speakerdeck-iframe" style="border: 0px none; background: rgba(0, 0, 0, 0.1) padding-box; margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 314;" src="https://speakerdeck.com/player/7d53344f0b4c4c229470877ee3dd27fa" title="文章のなかの地理空間  － 地理空間情報科学(GIS)と自然言語処理(NLP)の融合へ向けて －" allowfullscreen="true" data-ratio="1.78343949044586" frameborder="0"></iframe>
 
 
 <div class="content">
@@ -53,35 +54,44 @@ IEEE Transactions on Audio, Speech and Language Processing 2016
 </div>
 
 - [Iterative Span Selection: Self-Emergence of Resolving Orders in Semantic Role Labeling][2022-1]<br>
-Shuhei Kurita, <u>Hiroki Ouchi</u>, Kentaro Inui and Satoshi Sekine<br>
+Shuhei Kurita, <u>Hiroki Ouchi</u>, Kentaro Inui, Satoshi Sekine
 In Proceedings of COLING 2022
 - [Instance-Based Learning of Span Representations: A Case Study through Named Entity Recognition][102]<br>
-<u>Hiroki Ouchi</u>, Jun Suzuki, Sosuke Kobayashi, Sho Yokoi, Tatsuki Kuribayashi, Ryuto Konno and Kentaro Inui<br>
+<u>Hiroki Ouchi</u>, Jun Suzuki, Sosuke Kobayashi, Sho Yokoi, Tatsuki Kuribayashi, Ryuto Konno, Kentaro Inui<br>
 In Proceedings of ACL 2020
 - [Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis][101]<br>
-<u>Hiroki Ouchi</u>, Jun Suzuki and Kentaro Inui<br>
+<u>Hiroki Ouchi</u>, Jun Suzuki, Kentaro Inui<br>
 In Proceedings of EMNLP 2019
 - [An Empirical Study of Span Representations in Argumentation Structure Parsing][10]<br>
-Tatsuki Kuribayashi, <u>Hiroki Ouchi</u>, Naoya Inoue, Paul Reisert, Toshinori Miyoshi, Jun Suzuki and Kentaro Inui<br>
+Tatsuki Kuribayashi, <u>Hiroki Ouchi</u>, Naoya Inoue, Paul Reisert, Toshinori Miyoshi, Jun Suzuki, Kentaro Inui<br>
 In Proceedings of ACL 2019.
 - [A Span Selection Model for Semantic Role Labeling][9]<br>
-<u>Hiroki Ouchi</u>, Hiroyuki Shindo and Yuji Matsumoto<br>
+<u>Hiroki Ouchi</u>, Hiroyuki Shindo, Yuji Matsumoto<br>
 In Proceedings of EMNLP 2018.
 - [Addressee and Response Selection for Multilingual Conversation][8]<br>
-Motoki Sato, <u>Hiroki Ouchi</u> and Yuta Tsuboi<br>
+Motoki Sato, <u>Hiroki Ouchi</u>, Yuta Tsuboi<br>
 In Proceedings of COLING 2018.
 - [Neural Modeling of Multi-Predicate Interactions for Japanese Predicate Argument Structure Analysis][7]<br>
-<u>Hiroki Ouchi</u>, Hiroyuki Shindo and Yuji Matsumoto<br>
+<u>Hiroki Ouchi</u>, Hiroyuki Shindo, Yuji Matsumoto<br>
 In Proceedings of ACL 2017.
 - [Addressee and Response Selection for Multi-Party Conversation][5]<br>
 <u>Hiroki Ouchi</u>, Yuta Tsuboi<br>
 In Proceedings of EMNLP 2016.
 - [Joint Case Argument Identification for Japanese Predicate Argument Structure Analysis][4]<br>
-<u>Hiroki Ouchi</u>, Hiroyuki Shindo, Kevin Duh and Yuji Matsumoto<br>
+<u>Hiroki Ouchi</u>, Hiroyuki Shindo, Kevin Duh, Yuji Matsumoto<br>
 In Proceedings of ACL 2015.<br>
 - [Improving Dependency Parsers with Supertags][3]<br>
-<u>Hiroki Ouchi</u>, Kevin Duh and Yuji Matsumoto<br>
+<u>Hiroki Ouchi</u>, Kevin Duh, Yuji Matsumoto<br>
 In Proceedings of EACL 2014.
+
+<div class="content">
+	<h2>Non-Refereed Conference Papers (Selected)</h2>
+	<hr>
+</div>
+
+- Arukikata Travelogue Dataset [[paper](https://arxiv.org/abs/2305.11444)] [[dataset](https://arxiv.org/abs/2305.11444)]<br>
+<u>Hiroki Ouchi</u>, Hiroyuki Shindo, Shoko Wakamiya, Yuki Matsuda, Naoya Inoue, Shohei Higashiyama, Satoshi Nakamura, Taro Watanabe<br>
+arXiv 2023
 
 
 <div class="content">
@@ -89,6 +99,9 @@ In Proceedings of EACL 2014.
 	<hr>
 </div>
 
+- **[イチBizアワード優秀賞・部門賞（独創性・新規性部門）](https://www.g-idea.go.jp/2022/award/)**<br>
+地理空間情報と自然言語処理チーム（代表者：大内啓樹）
+内閣官房 (Dec. 2022)
 - **Outstanding Research Award / 優秀研究賞**<br>
 Shun Sato, <u>Hiroki Ouchi</u>, Kazuaki Hanawa, Shota Sasaki and Inui Kentaro<br>
 IPSJ SIG-NL-249 / 情報処理学会 自然言語処理研究会 (Jul. 2021)
@@ -161,8 +174,6 @@ IJCAI reviewer
 情報処理学会 論文誌 reviewer<br>
 人工知能学会 論文誌 reviewer<br>
 電子情報通信学会 論文誌 reviewer
-
-
 
 <div class="content">
 	<h2>Education</h2>
