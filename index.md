@@ -100,7 +100,7 @@ arXiv 2023
 </div>
 
 - **[イチBizアワード優秀賞・部門賞（独創性・新規性部門）](https://www.g-idea.go.jp/2022/award/)**<br>
-地理空間情報と自然言語処理チーム（代表者：大内啓樹）
+地理空間情報と自然言語処理チーム（代表者：大内啓樹）<br>
 内閣官房 (Dec. 2022)
 - **Outstanding Research Award / 優秀研究賞**<br>
 Shun Sato, <u>Hiroki Ouchi</u>, Kazuaki Hanawa, Shota Sasaki and Inui Kentaro<br>
