@@ -8,8 +8,8 @@ title:  Hiroki Ouchi / 大内 啓樹
 	<hr>
 </div>
 
-- **Assistant Professor**<br>
-[Natural Language Processing Laboratory, Nara Institute of Science and Technology](https://nlp.naist.jp/en/)<br>
+- **Associate Professor**<br>
+[Human-AI Interaction Laboratory, Nara Institute of Science and Technology](http://isw3.naist.jp/Research/mi-hai-en.html)<br>
 - **Contact Info**<br>
 Email: {{site.author.email}}<br>
 Account: [Google Scholar](https://scholar.google.co.jp/citations?user=RRrTYTEAAAAJ&hl=en), [researchmap](https://researchmap.jp/hirokiouchi), [Twitter](https://twitter.com/blankeyelephant), [Research Gate](https://www.researchgate.net/profile/Hiroki_Ouchi), [Github](https://github.com/hiroki13), [Twitter](https://twitter.com/blankeyelephant)
