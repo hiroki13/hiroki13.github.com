@@ -9,15 +9,15 @@ title:  Hiroki Ouchi / 大内 啓樹
 </div>
 
 - **Associate Professor**<br>
-[Human-AI Interaction Laboratory, Nara Institute of Science and Technology](http://isw3.naist.jp/Research/mi-hai-en.html)<br>
+[Human-AI Interaction Laboratory, Nara Institute of Science and Technology](https://hai-lab.naist.jp/)<br>
 - **Contact Info**<br>
 Email: {{site.author.email}}<br>
 Account: [Google Scholar](https://scholar.google.co.jp/citations?user=RRrTYTEAAAAJ&hl=en), [researchmap](https://researchmap.jp/hirokiouchi), [Twitter](https://twitter.com/blankeyelephant), [Research Gate](https://www.researchgate.net/profile/Hiroki_Ouchi), [Github](https://github.com/hiroki13), [Twitter](https://twitter.com/blankeyelephant)
 
 <div class="content">
 <center>
-<iframe src="https://player.vimeo.com/video/239251203" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/239251203">Addressee and Response Selection for Multi-Party Conversation</a> from <a href="https://vimeo.com/aclweb">ACL</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1n7QrayXSe8?si=yf-emJYX4RgxZX8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>"Spatial Intelligence Integrated Language AI" from <a href="https://ipsj-one.org/2024/">IPSJ-ONE 2024</a>.</p>
 </center>
 </div>
 
@@ -30,59 +30,41 @@ Account: [Google Scholar](https://scholar.google.co.jp/citations?user=RRrTYTEAAA
 - <b>[Geography & Language](https://sites.google.com/view/geography-and-language)</b><br>
 Currently, I am very interested in the intersection between Geographic Information Science (GIS) and Natural Language Processing (NLP). In order to reach the potential of the two fields, our [Geography & Language](https://sites.google.com/view/geography-and-language) project tries to connect between maps and text; i.e., grounding location-related expressions onto a map.
 - <b>Natural Language Processing</b><br>
-Semantic Parsing, Syntactic Parsing, Named Entity Recognition
-- <b>Machine Learning</b><br>
-Structured Prediction, Transductive Learning, Semi-Supervised Learning
-<iframe class="speakerdeck-iframe" style="border: 0px none; background: rgba(0, 0, 0, 0.1) padding-box; margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 314;" src="https://speakerdeck.com/player/7d53344f0b4c4c229470877ee3dd27fa" title="文章のなかの地理空間  － 地理空間情報科学(GIS)と自然言語処理(NLP)の融合へ向けて －" allowfullscreen="true" data-ratio="1.78343949044586" frameborder="0"></iframe>
+Structured Prediction, Named Entity Recognition, Multimodal Processing
 
+<center>
+<iframe class="speakerdeck-iframe" style="border: 0px none; background: rgba(0, 0, 0, 0.1) padding-box; margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 70%; height: auto; aspect-ratio: 560 / 314;" src="https://speakerdeck.com/player/7d53344f0b4c4c229470877ee3dd27fa" title="文章のなかの地理空間  － 地理空間情報科学(GIS)と自然言語処理(NLP)の融合へ向けて －" allowfullscreen="true" data-ratio="1.78343949044586" frameborder="0"></iframe>
+</center>
 
 <div class="content">
-	<h2>Journals</h2>
+	<h2>Journals (Selected)</h2>
 	<hr>
 </div>
 
-- [Instance-Based Neural Dependency Parsing][103]<br>
+- Instance-Based Neural Dependency Parsing [[paper](https://aclanthology.org/2021.tacl-1.89/)]<br>
 <u>Hiroki Ouchi</u>, Jun Suzuki, Sosuke Kobayashi, Sho Yokoi, Tatsuki Kuribayashi, Masashi Yoshikawa, Kentaro Inui<br>
 Transactions of the Association for Computational Linguistics (TACL) 2021
-- [Transition-Based Dependency Parsing Exploiting Supertags][6]<br>
+- Transition-Based Dependency Parsing Exploiting Supertags [[paper](https://ieeexplore.ieee.org/document/7533450)]<br>
 <u>Hiroki Ouchi</u>, Kevin Duh, Hiroyuki Shindo, Yuji Matsumoto<br>
 IEEE Transactions on Audio, Speech and Language Processing 2016
 
 <div class="content">
-	<h2>Refereed Conference Papers (Selected)</h2>
+	<h2>Conference Papers (Selected)</h2>
 	<hr>
 </div>
 
-- [Iterative Span Selection: Self-Emergence of Resolving Orders in Semantic Role Labeling][2022-1]<br>
-Shuhei Kurita, <u>Hiroki Ouchi</u>, Kentaro Inui, Satoshi Sekine
-In Proceedings of COLING 2022
-- [Instance-Based Learning of Span Representations: A Case Study through Named Entity Recognition][102]<br>
+- Constructing Indonesian-English Travelogue Dataset [[paper](https://aclanthology.org/2024.lrec-main.333/)] [[dataset](https://github.com/naist-nlp/mtd-gem)]<br>
+Eunike Kardinata, <u>Hiroki Ouchi</u>, and Taro Watanabe<br>
+In Proceedings of LREC-COLING 2024
+- Arukikata Travelogue Dataset with Geographic Entity Mention, Coreference, and Link Annotation [[paper](https://aclanthology.org/2024.findings-eacl.35/)] [[dataset](https://github.com/naist-nlp/atd-mcl)] [[code](https://github.com/naist-nlp/atd-mcl-baselines)]<br>
+Shohei Higashiyama, <u>Hiroki Ouchi</u>, Hiroki Teranishi, Hiroyuki Otomo, Yusuke Ide, Aitaro Yamamoto, Hiroyuki Shindo, Yuki Matsuda, Shoko Wakamiya, Naoya Inoue, Ikuya Yamada, and Taro Watanabe<br>
+In Findings of the Association for Computational Linguistics: EACL
+- Instance-Based Learning of Span Representations: A Case Study through Named Entity Recognition [[paper](https://aclanthology.org/2020.acl-main.575/)]<br>
 <u>Hiroki Ouchi</u>, Jun Suzuki, Sosuke Kobayashi, Sho Yokoi, Tatsuki Kuribayashi, Ryuto Konno, Kentaro Inui<br>
-In Proceedings of ACL 2020
-- [Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis][101]<br>
-<u>Hiroki Ouchi</u>, Jun Suzuki, Kentaro Inui<br>
-In Proceedings of EMNLP 2019
-- [An Empirical Study of Span Representations in Argumentation Structure Parsing][10]<br>
-Tatsuki Kuribayashi, <u>Hiroki Ouchi</u>, Naoya Inoue, Paul Reisert, Toshinori Miyoshi, Jun Suzuki, Kentaro Inui<br>
-In Proceedings of ACL 2019.
-- [A Span Selection Model for Semantic Role Labeling][9]<br>
+In Proceedings of ACL 2022
+- A Span Selection Model for Semantic Role Labeling [[paper](https://aclanthology.org/D18-1191/)]<br>
 <u>Hiroki Ouchi</u>, Hiroyuki Shindo, Yuji Matsumoto<br>
-In Proceedings of EMNLP 2018.
-- [Addressee and Response Selection for Multilingual Conversation][8]<br>
-Motoki Sato, <u>Hiroki Ouchi</u>, Yuta Tsuboi<br>
-In Proceedings of COLING 2018.
-- [Neural Modeling of Multi-Predicate Interactions for Japanese Predicate Argument Structure Analysis][7]<br>
-<u>Hiroki Ouchi</u>, Hiroyuki Shindo, Yuji Matsumoto<br>
-In Proceedings of ACL 2017.
-- [Addressee and Response Selection for Multi-Party Conversation][5]<br>
-<u>Hiroki Ouchi</u>, Yuta Tsuboi<br>
-In Proceedings of EMNLP 2016.
-- [Joint Case Argument Identification for Japanese Predicate Argument Structure Analysis][4]<br>
-<u>Hiroki Ouchi</u>, Hiroyuki Shindo, Kevin Duh, Yuji Matsumoto<br>
-In Proceedings of ACL 2015.<br>
-- [Improving Dependency Parsers with Supertags][3]<br>
-<u>Hiroki Ouchi</u>, Kevin Duh, Yuji Matsumoto<br>
-In Proceedings of EACL 2014.
+In Proceedings of EMNLP 2018
 
 <div class="content">
 	<h2>Preprints</h2>
@@ -99,6 +81,9 @@ arXiv 2023
 	<hr>
 </div>
 
+- **Special Committee Award / 委員特別賞**<br>
+Shohei, Higashiyama, <u>Hiroki Ouchi</u>, Hiroki Teranishi, Hiroyuki Otomo, Yusuke Ide, Aitaro Yamamoto, Hiroyuki Shindo, Taro Watanabe<br>
+Annual Meeting of ANLP / 言語処理学会 年次大会  (Mar. 2024)
 - **[イチBizアワード優秀賞・部門賞（独創性・新規性部門）](https://www.g-idea.go.jp/2022/award/)**<br>
 地理空間情報と自然言語処理チーム（代表者：大内啓樹）<br>
 内閣官房 (Dec. 2022)
@@ -167,9 +152,9 @@ EMNLP reviewer<br>
 IJCNLP reviewer<br>
 IJCAI reviewer
 - Domestic conference committee / 国内会議運営<br>
-情報処理学会 自然言語処理研究会 運営委員 (2018-)
+情報処理学会 自然言語処理研究会 運営委員 (2018-2022)
 - Journals / ジャーナル運営<br>
-言語処理学会 論文誌 editorial board (2020-)<br>
+言語処理学会 論文誌 editorial board (2020-2024)<br>
 言語処理学会 論文誌 reviewer<br>
 情報処理学会 論文誌 reviewer<br>
 人工知能学会 論文誌 reviewer<br>
@@ -210,17 +195,5 @@ Research Internship (Aug. 2015 - Oct. 2015)
 - [Yahoo Japan Corporation](http://docs.yahoo.co.jp/)<br>
 Engineering Internship (Aug. 2013 - Sep. 2013)
 
-[3]: https://www.aclweb.org/anthology/E14-4030/
-[4]: https://www.aclweb.org/anthology/P15-1093/
-[5]: https://www.aclweb.org/anthology/D16-1231/
-[6]: http://ieeexplore.ieee.org/document/7533450/
-[7]: https://www.aclweb.org/anthology/P17-1146/
-[8]: https://www.aclweb.org/anthology/C18-1308/
-[9]: https://www.aclweb.org/anthology/D18-1191/
-[10]: https://www.aclweb.org/anthology/P19-1464/
-[101]: https://www.aclweb.org/anthology/D19-1379/
-[102]: https://www.aclweb.org/anthology/2020.acl-main.575/
-[103]: https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00439/108864
-[2022-1]: https://aclanthology.org/2022.coling-1.478/
 [2019-kaken]: https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19K20351/
 [2022-kaken]: https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H03648/
